@@ -1,0 +1,96 @@
+{
+	"id3v2": {
+		"ver": 3,
+		"size": 174,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TRCK",
+				"size": 1,
+				"value": {
+					"text": ""
+				}
+			},
+			{
+				"id": "TENC",
+				"size": 1,
+				"value": {
+					"text": ""
+				}
+			},
+			{
+				"id": "WXXX",
+				"size": 2,
+				"value": {
+					"id": "",
+					"text": ""
+				}
+			},
+			{
+				"id": "TCOP",
+				"size": 1,
+				"value": {
+					"text": ""
+				}
+			},
+			{
+				"id": "TOPE",
+				"size": 1,
+				"value": {
+					"text": ""
+				}
+			},
+			{
+				"id": "TCOM",
+				"size": 1,
+				"value": {
+					"text": ""
+				}
+			},
+			{
+				"id": "COMM",
+				"size": 5,
+				"value": {
+					"id": "",
+					"language": "",
+					"text": ""
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 11,
+				"value": {
+					"text": "(88)Celtic"
+				}
+			},
+			{
+				"id": "TYER",
+				"size": 1,
+				"value": {
+					"text": ""
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 1,
+				"value": {
+					"text": ""
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 1,
+				"value": {
+					"text": ""
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 16,
+				"value": {
+					"text": "genre is Celtic"
+				}
+			}
+		]
+	}
+}

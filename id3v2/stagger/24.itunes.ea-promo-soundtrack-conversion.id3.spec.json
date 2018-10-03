@@ -1,0 +1,85 @@
+{
+	"id3v2": {
+		"ver": 4,
+		"size": 323109,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TCOP",
+				"size": 24,
+				"value": {
+					"text": "© 2008, Electronic Arts"
+				}
+			},
+			{
+				"id": "APIC",
+				"size": 320625,
+				"value": {
+					"mimeType": "image/jpeg",
+					"pictureType": 3,
+					"description": ""
+				}
+			},
+			{
+				"id": "GEOB",
+				"size": 25,
+				"value": {
+					"contentDescription": "SfMarkers",
+					"filename": "",
+					"mimeType": ""
+				}
+			},
+			{
+				"id": "GEOB",
+				"size": 39,
+				"value": {
+					"contentDescription": "SfAcidChunk",
+					"filename": "",
+					"mimeType": ""
+				}
+			},
+			{
+				"id": "TCMP",
+				"size": 3,
+				"value": {
+					"bool": true
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 19,
+				"value": {
+					"text": "Cave King's Salsa"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 12,
+				"value": {
+					"text": "Erle McCan"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 44,
+				"value": {
+					"text": "Henry Hatsworth in the Puzzling Adventure!"
+				}
+			},
+			{
+				"id": "TDRC",
+				"size": 6,
+				"value": {
+					"text": "2008"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 6,
+				"value": {
+					"text": "(24)"
+				}
+			}
+		]
+	}
+}

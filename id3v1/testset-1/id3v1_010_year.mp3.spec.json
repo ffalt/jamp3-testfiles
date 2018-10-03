@@ -1,0 +1,14 @@
+{
+	"id3v1": {
+		"version": 0,
+		"value": {
+			"title": "",
+			"artist": "",
+			"album": "",
+			"year": "0000",
+			"comment": "",
+			"genreIndex": 0
+		},
+		"desc": "An ID3 tag with the year set to 0000."
+	}
+}

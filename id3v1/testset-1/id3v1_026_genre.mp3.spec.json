@@ -1,0 +1,14 @@
+{
+	"id3v1": {
+		"version": 0,
+		"value": {
+			"title": "Oldies",
+			"artist": "",
+			"album": "",
+			"year": "2003",
+			"comment": "",
+			"genreIndex": 11
+		},
+		"desc": "An ID3 tag with genre set to Oldies."
+	}
+}

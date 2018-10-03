@@ -1,0 +1,224 @@
+{
+  "id3v1": {
+    "version": 1,
+    "value": {
+      "title": "Personal Holloway",
+      "artist": "Bush",
+      "album": "Razorblade Suitcase",
+      "year": "1996",
+      "comment": "",
+      "track": 1,
+      "genreIndex": 17
+    }
+  },
+  "id3v2": {
+    "ver": 4,
+    "size": 1024,
+    "subversion": 0,
+    "frames": [
+      {
+        "id": "TCON",
+        "size": 6,
+        "value": {
+          "text": "Rock"
+        }
+      },
+      {
+        "id": "TIT2",
+        "size": 18,
+        "value": {
+          "text": "Personal Holloway"
+        }
+      },
+      {
+        "id": "TPE1",
+        "size": 5,
+        "value": {
+          "text": "Bush"
+        }
+      },
+      {
+        "id": "TRCK",
+        "size": 5,
+        "value": {
+          "text": "1/13"
+        }
+      },
+      {
+        "id": "TALB",
+        "size": 20,
+        "value": {
+          "text": "Razorblade Suitcase"
+        }
+      },
+      {
+        "id": "TDRC",
+        "size": 5,
+        "value": {
+          "text": "1996"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 21,
+        "value": {
+          "id": "BARCODE",
+          "text": "606949009120"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 58,
+        "value": {
+          "id": "MusicBrainz Album Id",
+          "text": "c2cc70af-45f3-4702-825f-1b647315b9fa"
+        }
+      },
+      {
+        "id": "TPUB",
+        "size": 15,
+        "value": {
+          "text": "Trauma Records"
+        }
+      },
+      {
+        "id": "UFID",
+        "size": 59,
+        "value": {
+          "id": "http://musicbrainz.org",
+          "text": "8838ae6b-ab4e-4d37-b395-0df7ce6423be"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 21,
+        "value": {
+          "id": "ALBUMARTISTSORT",
+          "text": "Bush"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 34,
+        "value": {
+          "id": "MusicBrainz Album Status",
+          "text": "official"
+        }
+      },
+      {
+        "id": "TSOP",
+        "size": 5,
+        "value": {
+          "text": "Bush"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 50,
+        "value": {
+          "id": "MusicIP PUID",
+          "text": "3ad6b425-0382-27b7-f86c-af8408347a3d"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 29,
+        "value": {
+          "id": "MusicBrainz Album Type",
+          "text": "album"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 16,
+        "value": {
+          "id": "ASIN",
+          "text": "B00004UALN"
+        }
+      },
+      {
+        "id": "TPE2",
+        "size": 5,
+        "value": {
+          "text": "Bush"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 26,
+        "value": {
+          "id": "CATALOGNUMBER",
+          "text": "INTSD-90091"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 65,
+        "value": {
+          "id": "MusicBrainz Album Artist Id",
+          "text": "93ccd76c-3790-4435-a8bf-02bc26294b93"
+        }
+      },
+      {
+        "id": "TIPL",
+        "size": 44,
+        "value": {
+          "list": [
+            "producer",
+            "Steve Albini",
+            "engineer",
+            "Steve Albini"
+          ]
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 59,
+        "value": {
+          "id": "MusicBrainz Artist Id",
+          "text": "93ccd76c-3790-4435-a8bf-02bc26294b93"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 37,
+        "value": {
+          "id": "MusicBrainz Album Release Country",
+          "text": "CA"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 32,
+        "value": {
+          "id": "replaygain_album_gain",
+          "text": "-7.39 dB"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 32,
+        "value": {
+          "id": "replaygain_album_peak",
+          "text": "1.185902"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 32,
+        "value": {
+          "id": "replaygain_track_gain",
+          "text": "-8.38 dB"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 32,
+        "value": {
+          "id": "replaygain_track_peak",
+          "text": "1.147831"
+        }
+      }
+    ]
+  }
+}

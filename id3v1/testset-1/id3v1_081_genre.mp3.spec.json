@@ -1,0 +1,14 @@
+{
+	"id3v1": {
+		"version": 0,
+		"value": {
+			"title": "New Wave",
+			"artist": "",
+			"album": "",
+			"year": "2003",
+			"comment": "",
+			"genreIndex": 66
+		},
+		"desc": "An ID3 tag with genre set to New Wave."
+	}
+}

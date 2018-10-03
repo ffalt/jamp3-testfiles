@@ -1,0 +1,14 @@
+{
+	"id3v1": {
+		"version": 0,
+		"value": {
+			"title": "Goa",
+			"artist": "",
+			"album": "",
+			"year": "2003",
+			"comment": "",
+			"genreIndex": 126
+		},
+		"desc": "An ID3 tag with genre set to Goa. Only the first 80 genres are defined in the original ID3. "
+	}
+}

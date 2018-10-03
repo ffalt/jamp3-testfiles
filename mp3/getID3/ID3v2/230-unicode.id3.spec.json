@@ -1,0 +1,17 @@
+{
+	"id3v2": {
+		"ver": 3,
+		"size": 155,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TXXX",
+				"size": 145,
+				"value": {
+					"id": "example text frame",
+					"text": "This text and the description should be in Unicode."
+				}
+			}
+		]
+	}
+}

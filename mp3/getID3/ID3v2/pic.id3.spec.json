@@ -1,0 +1,118 @@
+{
+  "id3v2": {
+    "ver": 2,
+    "size": 3201,
+    "subversion": 0,
+    "frames": [
+      {
+        "id": "TT2",
+        "size": 11,
+        "value": {
+          "text": "Native Son"
+        }
+      },
+      {
+        "id": "TP1",
+        "size": 11,
+        "value": {
+          "text": "John Hiatt"
+        }
+      },
+      {
+        "id": "TAL",
+        "size": 8,
+        "value": {
+          "text": "Walk On"
+        }
+      },
+      {
+        "id": "TRK",
+        "size": 5,
+        "value": {
+          "text": "6/14"
+        }
+      },
+      {
+        "id": "TYE",
+        "size": 5,
+        "value": {
+          "text": "1995"
+        }
+      },
+      {
+        "id": "TCO",
+        "size": 5,
+        "value": {
+          "text": "(17)"
+        },
+        "title": "Genre"
+      },
+      {
+        "id": "TEN",
+        "size": 17,
+        "value": {
+          "text": "iTunes X v2.0.3"
+        }
+      },
+      {
+        "id": "COM",
+        "size": 48,
+        "value": {
+          "id": "",
+          "language": "eng",
+          "text": "14+A6299059489DDB16D1D3DC6DD00C4B8E+807660"
+        }
+      },
+      {
+        "id": "ULT",
+        "size": 5,
+        "value": {
+          "id": "",
+          "language": "eng",
+          "text": ""
+        }
+      },
+      {
+        "id": "RVA",
+        "size": 10,
+        "value": {
+          "right": 0,
+          "left": 0,
+          "peakRight": 0,
+          "peakLeft": 0
+        }
+      },
+      {
+        "id": "TRC",
+        "size": 1,
+        "value": {
+          "text": ""
+        }
+      },
+      {
+        "id": "TRC",
+        "size": 1,
+        "value": {
+          "text": ""
+        }
+      },
+      {
+        "id": "TRC",
+        "size": 1,
+        "value": {
+          "text": ""
+        }
+      },
+      {
+        "id": "PIC",
+        "size": 5966,
+        "binSize": 5954,
+        "value": {
+          "description": "e/jpeg",
+          "mimeType": "ima",
+          "pictureType": 103
+        }
+      }
+    ]
+  }
+}

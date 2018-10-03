@@ -1,0 +1,135 @@
+{
+	"id3v1": {
+		"version": 1,
+		"value": {
+			"title": "Lazy days",
+			"artist": "Enya",
+			"album": "A day without rain",
+			"year": "2000",
+			"comment": "tag problem",
+			"track": 11,
+			"genreIndex": 10
+		}
+	},
+	"id3v2": {
+		"ver": 4,
+		"size": 2038,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TIT2",
+				"size": 10,
+				"value": {
+					"text": "Lazy days"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 3,
+				"value": {
+					"text": "11"
+				}
+			},
+			{
+				"id": "TDRC",
+				"size": 5,
+				"value": {
+					"text": "2000"
+				}
+			},
+			{
+				"id": "PRIV",
+				"size": 39,
+				"value": {
+					"id": "WM/MediaClassPrimaryID"
+				}
+			},
+			{
+				"id": "PRIV",
+				"size": 41,
+				"value": {
+					"id": "WM/MediaClassSecondaryID"
+				}
+			},
+			{
+				"id": "PRIV",
+				"size": 31,
+				"value": {
+					"id": "WM/WMContentID"
+				}
+			},
+			{
+				"id": "TPUB",
+				"size": 4,
+				"value": {
+					"text": "WEA"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 3,
+				"value": {
+					"text": "10"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 19,
+				"value": {
+					"text": "A day without rain"
+				}
+			},
+			{
+				"id": "TPE2",
+				"size": 5,
+				"value": {
+					"text": "Enya"
+				}
+			},
+			{
+				"id": "PRIV",
+				"size": 34,
+				"value": {
+					"id": "WM/WMCollectionID"
+				}
+			},
+			{
+				"id": "PRIV",
+				"size": 39,
+				"value": {
+					"id": "WM/WMCollectionGroupID"
+				}
+			},
+			{
+				"id": "PRIV",
+				"size": 30,
+				"value": {
+					"id": "WM/Provider"
+				}
+			},
+			{
+				"id": "PRIV",
+				"size": 28,
+				"value": {
+					"id": "WM/UniqueFileIdentifier"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 5,
+				"value": {
+					"text": "Enya"
+				}
+			},
+			{
+				"id": "COMM",
+				"size": 16,
+				"value": {
+					"id": "",
+					"language": "XXX",
+					"text": "tag problem"
+				}
+			}
+		]
+	}
+}

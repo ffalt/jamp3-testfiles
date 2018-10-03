@@ -1,0 +1,67 @@
+{
+  "id3v2": {
+    "ver": 4,
+    "frames": [
+      {
+        "id": "TENC",
+        "size": 12,
+        "value": {
+          "text": "iTunes v1.1"
+        }
+      },
+      {
+        "id": "TIT2",
+        "size": 19,
+        "value": {
+          "text": "Evasion de Julien"
+        }
+      },
+      {
+        "id": "TPE1",
+        "size": 13,
+        "value": {
+          "text": "Miles Davis"
+        }
+      },
+      {
+        "id": "TALB",
+        "size": 27,
+        "value": {
+          "text": "Ascenseur pour l'échafaud"
+        }
+      },
+      {
+        "id": "TRCK",
+        "size": 7,
+        "value": {
+          "text": "23/26"
+        }
+      },
+      {
+        "id": "TCON",
+        "size": 5,
+        "value": {
+          "text": "(8)"
+        }
+      },
+      {
+        "id": "COMM",
+        "size": 14,
+        "value": {
+          "id": "",
+          "language": "eng",
+          "text": "Diskapif"
+        }
+      },
+      {
+        "id": "APIC",
+        "size": 33146,
+        "value": {
+          "mimeType": "image/png",
+          "pictureType": 240,
+          "description": ""
+        }
+      }
+    ]
+  }
+}

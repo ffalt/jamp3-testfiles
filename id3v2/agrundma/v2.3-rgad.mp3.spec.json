@@ -1,0 +1,107 @@
+{
+	"id3v2": {
+		"ver": 3,
+		"size": 2537,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "LINK",
+				"size": 5,
+				"value": {
+					"additional": [],
+					"id": "",
+					"url": "\u0001ÿþ"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 16,
+				"value": {
+					"text": "Daniel Johnston"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 19,
+				"value": {
+					"text": "1984 Retired Boxer"
+				}
+			},
+			{
+				"id": "TPE2",
+				"size": 16,
+				"value": {
+					"text": "Daniel Johnston"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 49,
+				"value": {
+					"text": "I'll Do Anything But Break Dance For Ya, Darling"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 3,
+				"value": {
+					"text": "01"
+				}
+			},
+			{
+				"id": "TYER",
+				"size": 5,
+				"value": {
+					"text": "1984"
+				}
+			},
+			{
+				"id": "TDRC",
+				"size": 5,
+				"value": {
+					"text": "1984"
+				}
+			},
+			{
+				"id": "RGAD",
+				"size": 8,
+				"value": {
+					"audiophileAdjustment": 20024,
+					"peak": 1065336774,
+					"radioAdjustment": 11833
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 31,
+				"value": {
+					"id": "replaygain_track_gain",
+					"text": "-5.66 dB"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 31,
+				"value": {
+					"id": "replaygain_track_peak",
+					"text": "0.999020"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 31,
+				"value": {
+					"id": "replaygain_album_gain",
+					"text": "-5.60 dB"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 12,
+				"value": {
+					"text": "Alternative"
+				}
+			}
+		]
+	}
+}

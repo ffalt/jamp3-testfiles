@@ -1,0 +1,94 @@
+{
+  "id3v2": {
+    "ver": 3,
+    "size": 575,
+    "subversion": 0,
+    "frames": [
+      {
+        "id": "TIT1",
+        "size": 1,
+        "value": {
+          "text": ""
+        }
+      },
+      {
+        "id": "TIT2",
+        "size": 10,
+        "value": {
+          "text": "O Fortuna"
+        }
+      },
+      {
+        "id": "TIT2",
+        "size": 10,
+        "value": {
+          "text": "O Fortuna"
+        }
+      },
+      {
+        "id": "TIT3",
+        "size": 1,
+        "value": {
+          "text": ""
+        }
+      },
+      {
+        "id": "TPE1",
+        "size": 11,
+        "value": {
+          "text": "Orff, Carl"
+        }
+      },
+      {
+        "id": "TPE1",
+        "size": 11,
+        "value": {
+          "text": "Orff, Carl"
+        }
+      },
+      {
+        "id": "TALB",
+        "size": 1,
+        "value": {
+          "text": ""
+        }
+      },
+      {
+        "id": "TALB",
+        "size": 1,
+        "value": {
+          "text": ""
+        }
+      },
+      {
+        "id": "TRCK",
+        "size": 3,
+        "value": {
+          "text": "00"
+        }
+      },
+      {
+        "id": "TRCK",
+        "size": 3,
+        "value": {
+          "text": "00"
+        }
+      },
+      {
+        "id": "TPE4",
+        "size": 11,
+        "value": {
+          "text": "Apatheosis"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 11,
+        "value": {
+          "id": "Type",
+          "text": "Remix"
+        }
+      }
+    ]
+  }
+}

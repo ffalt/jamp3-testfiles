@@ -1,0 +1,65 @@
+{
+	"id3v2": {
+		"ver": 2,
+		"size": 196,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TT2",
+				"size": 31,
+				"value": {
+					"text": "Klangstudie II"
+				}
+			},
+			{
+				"id": "TP1",
+				"size": 31,
+				"value": {
+					"text": "Herbert Eimert"
+				}
+			},
+			{
+				"id": "TYE",
+				"size": 5,
+				"value": {
+					"text": "1952"
+				}
+			},
+			{
+				"id": "TAL",
+				"size": 43,
+				"value": {
+					"text": "OHM - The Early Gurus of Electronic Music"
+				}
+			},
+			{
+				"id": "TCO",
+				"size": 24,
+				"value": {
+					"text": "Classical - Electronic"
+				}
+			},
+			{
+				"id": "TCP",
+				"size": 3,
+				"value": {
+					"bool": true
+				}
+			},
+			{
+				"id": "TRK",
+				"size": 6,
+				"value": {
+					"text": "5/16"
+				}
+			},
+			{
+				"id": "TPA",
+				"size": 5,
+				"value": {
+					"text": "1/3"
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,72 @@
+{
+	"id3v1": {
+		"version": 1,
+		"value": {
+			"artist": "Shakira",
+			"album": "Laundry Service",
+			"year": "2000",
+			"comment": "",
+			"title": "Suerte (Whenever, Wherever)",
+			"track": 12,
+			"genreIndex": 255
+		}
+	},
+	"id3v2": {
+		"ver": 3,
+		"size": 9191,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TPE1",
+				"size": 17,
+				"value": {
+					"text": "Shakira"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 33,
+				"value": {
+					"text": "Laundry Service"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 57,
+				"value": {
+					"text": "Suerte (Whenever, Wherever)"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 7,
+				"value": {
+					"text": "12"
+				}
+			},
+			{
+				"id": "TYER",
+				"size": 11,
+				"value": {
+					"text": "2000"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 13,
+				"value": {
+					"text": "latin"
+				}
+			},
+			{
+				"id": "APIC",
+				"size": 7959,
+				"value": {
+					"mimeType": "image/jpeg",
+					"pictureType": 3,
+					"description": "cover.jpg"
+				}
+			}
+		]
+	}
+}

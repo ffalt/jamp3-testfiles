@@ -1,0 +1,57 @@
+{
+	"id3v2": {
+		"ver": 3,
+		"size": 1959,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TPE1",
+				"size": 10,
+				"value": {
+					"text": "no artist"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 9,
+				"value": {
+					"text": "no title"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 14,
+				"value": {
+					"text": "AudioTrack 11"
+				}
+			},
+			{
+				"id": "MCDI",
+				"size": 804,
+				"binSize": 804,
+				"value": {}
+			},
+			{
+				"id": "TRCK",
+				"size": 3,
+				"value": {
+					"text": "11"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 8,
+				"value": {
+					"text": "Unknown"
+				}
+			},
+			{
+				"id": "TLEN",
+				"size": 6,
+				"value": {
+					"text": "43133"
+				}
+			}
+		]
+	}
+}

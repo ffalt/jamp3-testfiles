@@ -1,0 +1,65 @@
+{
+  "id3v2": {
+    "ver": 4,
+    "size": 2412,
+    "subversion": 0,
+    "frames": [
+      {
+        "id": "TDRC",
+        "size": 6,
+        "value": {
+          "text": "2009"
+        }
+      },
+      {
+        "id": "TALB",
+        "size": 18,
+        "formatFlags": {
+          "data_length_indicator": true,
+          "unsynchronised": true
+        },
+        "value": {
+          "text": "Album"
+        }
+      },
+      {
+        "id": "TPE1",
+        "size": 20,
+        "formatFlags": {
+          "data_length_indicator": true,
+          "unsynchronised": true
+        },
+        "value": {
+          "text": "Artist"
+        }
+      },
+      {
+        "id": "TIT2",
+        "size": 18,
+        "formatFlags": {
+          "data_length_indicator": true,
+          "unsynchronised": true
+        },
+        "value": {
+          "text": "Title"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 32,
+        "value": {
+          "id": "replaygain_track_gain",
+          "text": "+0.00 dB"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 32,
+        "value": {
+          "id": "replaygain_track_peak",
+          "text": "0.000715"
+        }
+      }
+    ]
+  }
+}

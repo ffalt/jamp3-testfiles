@@ -1,0 +1,14 @@
+{
+	"id3v1": {
+		"version": 0,
+		"value": {
+			"title": "Title",
+			"artist": "Artist",
+			"album": "Album",
+			"year": "2003",
+			"comment": "Comment",
+			"genreIndex": 7
+		},
+		"desc": "An ordinary ID3v1 tag with all fields set to a plauseble value."
+	}
+}

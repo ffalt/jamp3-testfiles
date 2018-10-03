@@ -1,0 +1,212 @@
+{
+	"id3v2": {
+		"ver": 4,
+		"size": 49199,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TALB",
+				"size": 14,
+				"value": {
+					"text": "Mirror's Edge"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 13,
+				"value": {
+					"text": "Solar Fields"
+				}
+			},
+			{
+				"id": "TPE2",
+				"size": 16,
+				"value": {
+					"text": "Various Artists"
+				}
+			},
+			{
+				"id": "COMM",
+				"size": 34,
+				"value": {
+					"id": "",
+					"language": "eng",
+					"text": "Amazon.com Song ID: 210828778"
+				}
+			},
+			{
+				"id": "TCOP",
+				"size": 27,
+				"value": {
+					"text": "2009 Electronic Arts Music"
+				}
+			},
+			{
+				"id": "TPOS",
+				"size": 4,
+				"value": {
+					"text": "1/1"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 8,
+				"value": {
+					"text": "Ambient"
+				}
+			},
+			{
+				"id": "TPUB",
+				"size": 25,
+				"value": {
+					"text": "E.A.R.S. (EA Recordings)"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 13,
+				"value": {
+					"text": "Introduction"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 5,
+				"value": {
+					"text": "1/12"
+				}
+			},
+			{
+				"id": "UFID",
+				"size": 59,
+				"value": {
+					"id": "http://musicbrainz.org",
+					"text": "a5dc6aa7-d44b-44f0-9115-e40019f40471"
+				}
+			},
+			{
+				"id": "TDRC",
+				"size": 11,
+				"value": {
+					"text": "2009-05-19"
+				}
+			},
+			{
+				"id": "TSOP",
+				"size": 13,
+				"value": {
+					"text": "Solar Fields"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 59,
+				"value": {
+					"id": "MusicBrainz Artist Id",
+					"text": "a2af1f31-c9eb-4fff-990c-c4f547a11b75"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 31,
+				"value": {
+					"id": "replaygain_track_gain",
+					"text": "-6.19 dB"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 31,
+				"value": {
+					"id": "replaygain_track_peak",
+					"text": "1.093015"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 32,
+				"value": {
+					"id": "ALBUMARTISTSORT",
+					"text": "Various Artists"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 16,
+				"value": {
+					"id": "ASIN",
+					"text": "B0026WJFOC"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 65,
+				"value": {
+					"id": "MusicBrainz Album Artist Id",
+					"text": "89ad4ac3-39f7-470e-963a-56509c546377"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 58,
+				"value": {
+					"id": "MusicBrainz Album Id",
+					"text": "081ff32e-7f3a-4b0f-85a0-cf247dd54f5d"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 37,
+				"value": {
+					"id": "MusicBrainz Album Release Country",
+					"text": "XW"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 34,
+				"value": {
+					"id": "MusicBrainz Album Status",
+					"text": "official"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 34,
+				"value": {
+					"id": "MusicBrainz Album Type",
+					"text": "soundtrack"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 31,
+				"value": {
+					"id": "replaygain_album_gain",
+					"text": "-6.77 dB"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 31,
+				"value": {
+					"id": "replaygain_album_peak",
+					"text": "1.166404"
+				}
+			},
+			{
+				"id": "APIC",
+				"size": 46258,
+				"formatFlags": {
+					"data_length_indicator": true,
+					"unsynchronised": true
+				},
+				"value": {
+					"mimeType": "image/jpeg",
+					"pictureType": 3,
+					"description": ""
+				}
+			}
+		]
+	}
+}

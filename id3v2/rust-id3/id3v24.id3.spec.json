@@ -1,0 +1,74 @@
+{
+	"id3v2": {
+		"ver": 4,
+		"size": 27648,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TALB",
+				"size": 7,
+				"value": {
+					"text": "Album"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 23,
+				"value": {
+					"text": "Artist/Another Artist"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 7,
+				"value": {
+					"text": "Title"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 11,
+				"value": {
+					"text": "Track"
+				}
+			},
+			{
+				"id": "TPOS",
+				"size": 5,
+				"value": {
+					"text": "1/1"
+				}
+			},
+			{
+				"id": "TDRC",
+				"size": 6,
+				"value": {
+					"text": "2017"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 7,
+				"value": {
+					"text": "Genre"
+				}
+			},
+			{
+				"id": "APIC",
+				"size": 26536,
+				"value": {
+					"mimeType": "image/png",
+					"pictureType": 3,
+					"description": ""
+				}
+			},
+			{
+				"id": "TPE2",
+				"size": 14,
+				"value": {
+					"text": "Album Artist"
+				}
+			}
+		]
+	}
+}

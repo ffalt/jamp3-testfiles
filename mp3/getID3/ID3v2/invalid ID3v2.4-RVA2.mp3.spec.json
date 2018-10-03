@@ -1,0 +1,91 @@
+{
+	"id3v2": {
+		"ver": 4,
+		"size": 4772,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TALB",
+				"size": 27,
+				"value": {
+					"text": "Urban Outfitters - LSTN #2"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 24,
+				"value": {
+					"text": "Lesser Gonzalez Alvarez"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 16,
+				"value": {
+					"text": "Mostly a Friend"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 3,
+				"value": {
+					"text": "21"
+				}
+			},
+			{
+				"id": "TDRC",
+				"size": 5,
+				"value": {
+					"text": "2008"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 21,
+				"value": {
+					"id": "ALBUM ARTIST",
+					"text": "Various"
+				}
+			},
+			{
+				"id": "RVA2",
+				"size": 17,
+				"value": {
+					"channels": [
+						{
+							"adjustment": 4096,
+							"peak": 0,
+							"type": 0
+						}
+					],
+					"id": "\u0003\u0010ÿÿÿÿ"
+				},
+				"formatFlags": {
+					"unsynchronised": true
+				}
+			},
+			{
+				"id": "MCDI",
+				"size": 10,
+				"binSize": 10,
+				"value": {}
+			},
+			{
+				"id": "TCMP",
+				"size": 3,
+				"value": {
+					"bool": true
+				}
+			},
+			{
+				"id": "APIC",
+				"size": 4502,
+				"value": {
+					"pictureType": 0,
+					"mimeType": "image/png",
+					"description": ""
+				}
+			}
+		]
+	}
+}

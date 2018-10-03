@@ -1,0 +1,92 @@
+{
+	"id3v2": {
+		"ver": 2,
+		"size": 247192,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TYE",
+				"size": 5,
+				"value": {
+					"text": "2009"
+				}
+			},
+			{
+				"id": "TRK",
+				"size": 6,
+				"value": {
+					"text": "4/15"
+				}
+			},
+			{
+				"id": "TPA",
+				"size": 5,
+				"value": {
+					"text": "1/1"
+				}
+			},
+			{
+				"id": "PIC",
+				"size": 236740,
+				"value": {
+					"mimeType": "PNG",
+					"pictureType": 0,
+					"description": ""
+				}
+			},
+			{
+				"id": "TCO",
+				"size": 6,
+				"value": {
+					"text": "(40)"
+				}
+			},
+			{
+				"id": "TT2",
+				"size": 46,
+				"value": {
+					"text": "NAME1234567890123456789012345678901234567890"
+				}
+			},
+			{
+				"id": "TP1",
+				"size": 48,
+				"value": {
+					"text": "ARTIST1234567890123456789012345678901234567890"
+				}
+			},
+			{
+				"id": "TCM",
+				"size": 50,
+				"value": {
+					"text": "COMPOSER1234567890123456789012345678901234567890"
+				}
+			},
+			{
+				"id": "TAL",
+				"size": 47,
+				"value": {
+					"text": "ALBUM1234567890123456789012345678901234567890"
+				}
+			},
+			{
+				"id": "COM",
+				"size": 54,
+				"value": {
+					"id": "",
+					"language": "eng",
+					"text": "COMMENTS1234567890123456789012345678901234567890"
+				}
+			},
+			{
+				"id": "COM",
+				"size": 104,
+				"value": {
+					"id": "iTunNORM",
+					"language": "eng",
+					"text": " 00000000 00000000 00000000 00000000 000000FF 000000FF 00000004 00000005 000000FF 000000FF"
+				}
+			}
+		]
+	}
+}

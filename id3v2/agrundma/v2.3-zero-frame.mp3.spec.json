@@ -1,0 +1,58 @@
+{
+	"id3v2": {
+		"ver": 3,
+		"size": 694,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "WCOM",
+				"size": 0,
+				"value": {
+					"text": ""
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 8,
+				"value": {
+					"text": "Darlene"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 13,
+				"value": {
+					"text": "Led Zeppelin"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 5,
+				"value": {
+					"text": "Coda"
+				}
+			},
+			{
+				"id": "TYER",
+				"size": 5,
+				"value": {
+					"text": "1982"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 6,
+				"value": {
+					"text": "06/08"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 5,
+				"value": {
+					"text": "(17)"
+				}
+			}
+		]
+	}
+}

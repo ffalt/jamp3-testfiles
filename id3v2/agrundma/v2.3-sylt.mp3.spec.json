@@ -1,0 +1,129 @@
+{
+	"id3v2": {
+		"ver": 3,
+		"size": 935,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TALB",
+				"size": 42,
+				"value": {
+					"text": "Album name that is larger then 30 chars !"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 51,
+				"value": {
+					"text": "Artist name or band that is larger then 30 chars !"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 43,
+				"value": {
+					"text": "Track name which is larger then 30 chars !"
+				}
+			},
+			{
+				"id": "COMM",
+				"size": 110,
+				"value": {
+					"id": "Lyrics3 v2.00 INF",
+					"language": "XXX",
+					"text": "This track was actually recorded in several places around the world\nand mixed at the US\n"
+				}
+			},
+			{
+				"id": "TEXT",
+				"size": 49,
+				"value": {
+					"text": "The lyrics were written by someone.. is it you ?"
+				}
+			},
+			{
+				"id": "SYLT",
+				"size": 566,
+				"value": {
+					"id": "Converted from Lyrics3 v2.00",
+					"language": "XXX",
+					"timestampFormat": 2,
+					"contentType": 1,
+					"events": [
+						{
+							"text": "Let's talk about time",
+							"timestamp": 2000
+						},
+						{
+							"text": "\ntickin' away every day",
+							"timestamp": 2000
+						},
+						{
+							"text": "\nso wake on up before it's gone away",
+							"timestamp": 5000
+						},
+						{
+							"text": "\ncatch the 411 and stay up like the sun",
+							"timestamp": 10000
+						},
+						{
+							"text": "\nremind yourself what's done and done",
+							"timestamp": 20000
+						},
+						{
+							"text": "\nso let yesterday stay with the bygones",
+							"timestamp": 32000
+						},
+						{
+							"text": "\nkeep your body and soul and your mind on",
+							"timestamp": 40000
+						},
+						{
+							"text": "\nthe right track infact you gotta stay on",
+							"timestamp": 55000
+						},
+						{
+							"text": "\nthe real black\n\nChorus:",
+							"timestamp": 80000
+						},
+						{
+							"text": "\nTime is tickin' away",
+							"timestamp": 85000
+						},
+						{
+							"text": "\nyou've gotta - live your life -",
+							"timestamp": 102000
+						},
+						{
+							"text": "\nday by day",
+							"timestamp": 131000
+						},
+						{
+							"text": "\nhappy or sad, good or bad",
+							"timestamp": 146000
+						},
+						{
+							"text": "\nlife is too short",
+							"timestamp": 151000
+						},
+						{
+							"text": "\nyou've gotta - keep your head -",
+							"timestamp": 178000
+						},
+						{
+							"text": "\n(Repeat)",
+							"timestamp": 181000
+						}
+					]
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 4,
+				"value": {
+					"text": "(0)"
+				}
+			}
+		]
+	}
+}

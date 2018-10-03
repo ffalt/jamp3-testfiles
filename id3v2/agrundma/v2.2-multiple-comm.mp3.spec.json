@@ -1,0 +1,87 @@
+{
+	"id3v2": {
+		"ver": 2,
+		"size": 2215,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TT2",
+				"size": 17,
+				"value": {
+					"text": "cosmic american"
+				}
+			},
+			{
+				"id": "TP1",
+				"size": 16,
+				"value": {
+					"text": "Anais Mitchell"
+				}
+			},
+			{
+				"id": "TAL",
+				"size": 22,
+				"value": {
+					"text": "Hymns for the Exiled"
+				}
+			},
+			{
+				"id": "TRK",
+				"size": 6,
+				"value": {
+					"text": "3/11"
+				}
+			},
+			{
+				"id": "TYE",
+				"size": 6,
+				"value": {
+					"text": "2004"
+				}
+			},
+			{
+				"id": "COM",
+				"size": 45,
+				"value": {
+					"id": "",
+					"language": "eng",
+					"text": "Waterbug Records, www.anaismitchell.com"
+				}
+			},
+			{
+				"id": "TEN",
+				"size": 13,
+				"value": {
+					"text": "iTunes v4.6"
+				}
+			},
+			{
+				"id": "COM",
+				"size": 104,
+				"value": {
+					"id": "iTunNORM",
+					"language": "eng",
+					"text": " 0000044E 00000061 00009B67 000044C3 00022478 00022182 00007FCC 00007E5C 0002245E 0002214E"
+				}
+			},
+			{
+				"id": "COM",
+				"size": 105,
+				"value": {
+					"id": "iTunes_CDDB_1",
+					"language": "eng",
+					"text": "9D09130B+174405+11+150+14097+27391+43983+65786+84877+99399+113226+132452+146426+163829"
+				}
+			},
+			{
+				"id": "COM",
+				"size": 30,
+				"value": {
+					"id": "iTunes_CDDB_TrackNumber",
+					"language": "eng",
+					"text": "3"
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,170 @@
+{
+	"id3v2": {
+		"ver": 4,
+		"size": 1014,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TMED",
+				"size": 47,
+				"value": {
+					"text": "cdparanoia III release 9.7 (December 13, 1999)"
+				}
+			},
+			{
+				"id": "TOWN",
+				"size": 10,
+				"value": {
+					"text": "CrazyFoam"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 17,
+				"value": {
+					"text": "Tears of a Clown"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 6,
+				"value": {
+					"text": "05/14"
+				}
+			},
+			{
+				"id": "PRIV",
+				"size": 39,
+				"value": {
+					"id": "WM/MediaClassPrimaryID"
+				}
+			},
+			{
+				"id": "PRIV",
+				"size": 31,
+				"value": {
+					"id": "WM/WMContentID"
+				}
+			},
+			{
+				"id": "PRIV",
+				"binSize": 16,
+				"value": {
+					"id": "WM/MediaClassSecondaryID"
+				}
+			},
+			{
+				"id": "PRIV",
+				"size": 64,
+				"value": {
+					"id": "WM/UniqueFileIdentifier"
+				}
+			},
+			{
+				"id": "TPUB",
+				"size": 8,
+				"value": {
+					"text": "Go Feet"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 3,
+				"value": {
+					"text": "21"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 21,
+				"value": {
+					"text": "I Just Can't Stop It"
+				}
+			},
+			{
+				"id": "TPE2",
+				"size": 17,
+				"value": {
+					"text": "The English Beat"
+				}
+			},
+			{
+				"id": "PRIV",
+				"size": 34,
+				"value": {
+					"id": "WM/WMCollectionID"
+				}
+			},
+			{
+				"id": "PRIV",
+				"size": 39,
+				"value": {
+					"id": "WM/WMCollectionGroupID"
+				}
+			},
+			{
+				"id": "PRIV",
+				"size": 44,
+				"value": {
+					"id": "WM/Provider"
+				}
+			},
+			{
+				"id": "PRIV",
+				"size": 14,
+				"value": {
+					"id": "PeakValue"
+				}
+			},
+			{
+				"id": "PRIV",
+				"size": 17,
+				"value": {
+					"id": "AverageLevel"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 17,
+				"value": {
+					"text": "The English Beat"
+				}
+			},
+			{
+				"id": "TTSE",
+				"size": 38,
+				"value": {
+					"text": "lame -m j -h -v -V 1 -b 128 -B 320 -o"
+				}
+			},
+			{
+				"id": "TSOP",
+				"size": 13,
+				"value": {
+					"text": "English Beat"
+				}
+			},
+			{
+				"id": "TDTG",
+				"size": 20,
+				"value": {
+					"text": "2001-02-05T07:32:00"
+				}
+			},
+			{
+				"id": "TDEN",
+				"size": 20,
+				"value": {
+					"text": "2001-02-05T02:02:00"
+				}
+			},
+			{
+				"id": "TDRC",
+				"size": 5,
+				"value": {
+					"text": "1980"
+				}
+			}
+		]
+	}
+}

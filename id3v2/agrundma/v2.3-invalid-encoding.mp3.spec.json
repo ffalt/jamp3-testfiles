@@ -1,0 +1,30 @@
+{
+	"id3v2": {
+		"ver": 3,
+		"size": 54,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TRCK",
+				"size": 2,
+				"value": {
+					"text": "0"
+				}
+			},
+			{
+				"id": "TYER",
+				"size": 2,
+				"value": {
+					"text": "0"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 10,
+				"value": {
+					"text": "(12)Other"
+				}
+			}
+		]
+	}
+}

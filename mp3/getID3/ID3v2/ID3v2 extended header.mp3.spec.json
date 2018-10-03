@@ -1,0 +1,16 @@
+{
+	"id3v2": {
+		"ver": 3,
+		"size": 19,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TCON",
+				"size": 9,
+				"value": {
+					"text": "(0)Blues"
+				}
+			}
+		]
+	}
+}

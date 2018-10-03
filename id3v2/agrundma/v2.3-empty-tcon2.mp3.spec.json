@@ -1,0 +1,37 @@
+{
+	"id3v2": {
+		"ver": 3,
+		"size": 2158,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TCON",
+				"size": 3,
+				"value": {
+					"text": ""
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 61,
+				"value": {
+					"text": "01-jan_delay-sam_ragga_styler"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 3,
+				"value": {
+					"text": ""
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 19,
+				"value": {
+					"text": "Unbekanntes Album"
+				}
+			}
+		]
+	}
+}

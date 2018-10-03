@@ -1,0 +1,200 @@
+{
+	"id3v2": {
+		"ver": 4,
+		"size": 59562,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TXXX",
+				"size": 56,
+				"value": {
+					"id": "MusicBrainz TRM Id",
+					"text": "fe2be921-a9c2-4a70-8c5e-ba218955f4bc"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 59,
+				"value": {
+					"id": "MusicBrainz Artist Id",
+					"text": "23383ac8-f635-4981-a755-cbe45c13b351"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 58,
+				"value": {
+					"id": "MusicBrainz Album Id",
+					"text": "6731754a-ade4-4e15-a3d7-294dd8a1b59d"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 29,
+				"value": {
+					"id": "MusicBrainz Album Type",
+					"text": "album"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 34,
+				"value": {
+					"id": "MusicBrainz Album Status",
+					"text": "official"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 29,
+				"value": {
+					"id": "MusicBrainz Album Artist Id",
+					"text": ""
+				}
+			},
+			{
+				"id": "UFID",
+				"size": 59,
+				"value": {
+					"id": "http://musicbrainz.org",
+					"text": "90eace86-966d-4db9-9d13-c089e63239c2"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 24,
+				"value": {
+					"text": "Minha Dalva De Oliveira"
+				}
+			},
+			{
+				"id": "PRIV",
+				"size": 39,
+				"value": {
+					"id": "WM/MediaClassPrimaryID"
+				}
+			},
+			{
+				"id": "PRIV",
+				"size": 41,
+				"value": {
+					"id": "WM/MediaClassSecondaryID"
+				}
+			},
+			{
+				"id": "PRIV",
+				"size": 31,
+				"value": {
+					"id": "WM/WMContentID"
+				}
+			},
+			{
+				"id": "PRIV",
+				"size": 138,
+				"value": {
+					"id": "WM/UniqueFileIdentifier"
+				}
+			},
+			{
+				"id": "TPUB",
+				"size": 24,
+				"value": {
+					"text": "Six Degrees/Ziriguiboom"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 6,
+				"value": {
+					"text": "World"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 8,
+				"value": {
+					"text": "Natural"
+				}
+			},
+			{
+				"id": "TPE2",
+				"size": 14,
+				"value": {
+					"text": "Celso Fonseca"
+				}
+			},
+			{
+				"id": "PRIV",
+				"size": 34,
+				"value": {
+					"id": "WM/WMCollectionID"
+				}
+			},
+			{
+				"id": "PRIV",
+				"size": 39,
+				"value": {
+					"id": "WM/WMCollectionGroupID"
+				}
+			},
+			{
+				"id": "PRIV",
+				"size": 20,
+				"value": {
+					"id": "WM/Provider"
+				}
+			},
+			{
+				"id": "PRIV",
+				"size": 14,
+				"value": {
+					"id": "PeakValue"
+				}
+			},
+			{
+				"id": "PRIV",
+				"size": 17,
+				"value": {
+					"id": "AverageLevel"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 6,
+				"value": {
+					"text": "11/12"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 14,
+				"value": {
+					"text": "Celso Fonseca"
+				}
+			},
+			{
+				"id": "XSOP",
+				"size": 15,
+				"value": {
+					"text": "Fonseca, Celso"
+				}
+			},
+			{
+				"id": "TDRC",
+				"size": 5,
+				"value": {
+					"text": "2003"
+				}
+			},
+			{
+				"id": "APIC",
+				"size": 57465,
+				"value": {
+					"mimeType": "image/jpeg",
+					"pictureType": 3,
+					"description": "http://images-eu.amazon.com/images/P/B00007J4UY.02.LZZZZZZZ.jpg"
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,23 @@
+{
+  "id3v2": {
+    "ver": 3,
+    "frames": [
+      {
+        "id": "TXXX",
+        "size": 35,
+        "value": {
+          "id": "replaygain_track_gain",
+          "text": "-1.020000 dB"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 31,
+        "value": {
+          "id": "replaygain_track_peak",
+          "text": "0.920032"
+        }
+      }
+    ]
+  }
+}

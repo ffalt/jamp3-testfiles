@@ -1,0 +1,82 @@
+{
+	"id3v2": {
+		"ver": 3,
+		"size": 8614,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TXXX",
+				"size": 18,
+				"value": {
+					"id": "CT_GAPLESS_DATA",
+					"text": "0"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 21,
+				"value": {
+					"text": "_Jo Nesbø"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 21,
+				"value": {
+					"text": "Sorgenfri (07 av 12)"
+				}
+			},
+			{
+				"id": "TPE2",
+				"size": 21,
+				"value": {
+					"text": "_Jo Nesbø"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 9,
+				"value": {
+					"text": "Track 02"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 2,
+				"value": {
+					"text": "2"
+				}
+			},
+			{
+				"id": "TYER",
+				"size": 5,
+				"value": {
+					"text": "2002"
+				}
+			},
+			{
+				"id": "TDRC",
+				"size": 5,
+				"value": {
+					"text": "2002"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 11,
+				"value": {
+					"text": "Audio book"
+				}
+			},
+			{
+				"id": "APIC",
+				"size": 7399,
+				"value": {
+					"mimeType": "image/jpeg",
+					"pictureType": 3,
+					"description": ""
+				}
+			}
+		]
+	}
+}

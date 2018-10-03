@@ -1,0 +1,54 @@
+{
+	"title": "Invalid LINK frame",
+	"id3v2": {
+		"ver": 3,
+		"size": 2192,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "LINK",
+				"size": 43,
+				"value": {
+					"id": "",
+					"url": "WCOhttp://www.emusic.com/albums/2°>ÒhZ\u000fï\u0017+«",
+					"additional": []
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 24,
+				"value": {
+					"text": "Bob Marley & Peter Tosh"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 7,
+				"value": {
+					"text": "Reggae"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 7,
+				"value": {
+					"text": "Try Me"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 11,
+				"value": {
+					"text": "Bob Marley"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 2,
+				"value": {
+					"text": "1"
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,149 @@
+{
+	"id3v2": {
+		"ver": 3,
+		"size": 2286726,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TPE1",
+				"size": 23,
+				"value": {
+					"text": "8-Bit Boys"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 95,
+				"value": {
+					"text": "Vampire Killers (feat. MC Gigahertz & MC Loki)"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 31,
+				"value": {
+					"text": "8-Bit Diagrams"
+				}
+			},
+			{
+				"id": "COMM",
+				"size": 142,
+				"value": {
+					"id": "ID3v1 Comment",
+					"language": "eng",
+					"text": "Mastered at EMPulse Records Studio 6, Port Orange, FL"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 7,
+				"value": {
+					"text": "17"
+				}
+			},
+			{
+				"id": "TYER",
+				"size": 11,
+				"value": {
+					"text": "2008"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 17,
+				"value": {
+					"text": "Hip-Hop"
+				}
+			},
+			{
+				"id": "TPE2",
+				"size": 23,
+				"value": {
+					"text": "8-Bit Boys"
+				}
+			},
+			{
+				"id": "TENC",
+				"size": 39,
+				"value": {
+					"text": "8bitboys@gmail.com"
+				}
+			},
+			{
+				"id": "WXXX",
+				"size": 19,
+				"value": {
+					"id": "",
+					"text": "www.8bitboys.com"
+				}
+			},
+			{
+				"id": "TCOP",
+				"size": 33,
+				"value": {
+					"text": "2008 8-Bit Boys"
+				}
+			},
+			{
+				"id": "COMM",
+				"size": 104,
+				"value": {
+					"id": "iTunNORM",
+					"language": "eng",
+					"text": " 00000EBB 00000000 00004380 00000000 0001ADC7 00000000 00007E13 00000000 0002E647 00000000"
+				}
+			},
+			{
+				"id": "APIC",
+				"size": 1142831,
+				"value": {
+					"mimeType": "image/jpeg",
+					"pictureType": 0,
+					"description": ""
+				}
+			},
+			{
+				"id": "APIC",
+				"size": 1142831,
+				"value": {
+					"mimeType": "image/jpeg",
+					"pictureType": 0,
+					"description": ""
+				}
+			},
+			{
+				"id": "RGAD",
+				"size": 8,
+				"value": {
+					"peak": 1065353216,
+					"radioAdjustment": 11860,
+					"audiophileAdjustment": 20054
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 31,
+				"value": {
+					"id": "replaygain_track_gain",
+					"text": "-8.41 dB"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 31,
+				"value": {
+					"id": "replaygain_track_peak",
+					"text": "1.000000"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 31,
+				"value": {
+					"id": "replaygain_album_gain",
+					"text": "-8.59 dB"
+				}
+			}
+		]
+	}
+}

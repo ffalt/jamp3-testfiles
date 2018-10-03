@@ -1,0 +1,55 @@
+{
+	"id3v1": {
+		"version": 0,
+		"value": {
+			"artist": "nigelcoldwell.co.uk",
+			"album": "nigelcoldwell.co.uk",
+			"year": "",
+			"comment": "                              ",
+			"title": "224mp3 audio",
+			"genreIndex": 12
+		}
+	},
+	"id3v2": {
+		"ver": 3,
+		"size": 4086,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TIT2",
+				"size": 13,
+				"value": {
+					"text": "224mp3 audio"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 20,
+				"value": {
+					"text": "nigelcoldwell.co.uk"
+				}
+			},
+			{
+				"id": "PRIV",
+				"size": 14,
+				"value": {
+					"id": "PeakValue"
+				}
+			},
+			{
+				"id": "PRIV",
+				"size": 17,
+				"value": {
+					"id": "AverageLevel"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 20,
+				"value": {
+					"text": "nigelcoldwell.co.uk"
+				}
+			}
+		]
+	}
+}

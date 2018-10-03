@@ -1,0 +1,37 @@
+{
+  "id3v2": {
+    "ver": 3,
+    "size": 192,
+    "subversion": 0,
+    "frames": [
+      {
+        "id": "TIT2",
+        "size": 9,
+        "value": {
+          "text": "中文"
+        }
+      },
+      {
+        "id": "TPE1",
+        "size": 21,
+        "value": {
+          "text": "γειά σου"
+        }
+      },
+      {
+        "id": "TALB",
+        "size": 15,
+        "value": {
+          "text": "こんにちは"
+        }
+      },
+      {
+        "id": "TCOM",
+        "size": 17,
+        "value": {
+          "text": "હેલ્લો"
+        }
+      }
+    ]
+  }
+}

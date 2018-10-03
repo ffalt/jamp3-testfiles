@@ -1,0 +1,59 @@
+{
+	"id3v2": {
+		"ver": 4,
+		"size": 1157,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TALB",
+				"size": 11,
+				"value": {
+					"text": "Album Name"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 7,
+				"value": {
+					"text": "ЪЭЯ"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 8,
+				"value": {
+					"text": "Ambient"
+				}
+			},
+			{
+				"id": "TDTG",
+				"size": 20,
+				"value": {
+					"text": "2009-03-16T18:07:36"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 12,
+				"value": {
+					"text": "Track Title"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 6,
+				"value": {
+					"text": "02/10"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 10,
+				"value": {
+					"id": "ΈΤ",
+					"text": "γζ"
+				}
+			}
+		]
+	}
+}

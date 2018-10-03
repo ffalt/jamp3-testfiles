@@ -1,0 +1,153 @@
+{
+  "id3v1": {
+    "version": 0,
+    "value": {
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "comment": "",
+      "genreIndex": 255
+    }
+  },
+  "id3v2": {
+    "ver": 4,
+    "size": 1161,
+    "subversion": 0,
+    "frames": [
+      {
+        "id": "TALB",
+        "size": 11,
+        "value": {
+          "text": "Album Name"
+        }
+      },
+      {
+        "id": "TPE1",
+        "size": 12,
+        "value": {
+          "text": "Artist Name"
+        }
+      },
+      {
+        "id": "TBPM",
+        "size": 4,
+        "value": {
+          "text": "120"
+        }
+      },
+      {
+        "id": "TCON",
+        "size": 8,
+        "value": {
+          "text": "Ambient"
+        }
+      },
+      {
+        "id": "POPM",
+        "size": 17,
+        "value": {
+          "email": "foo@foo.com",
+          "count": 1234567890,
+          "rating": 150
+        }
+      },
+      {
+        "id": "POPM",
+        "size": 18,
+        "value": {
+          "email": "foo2@foo.com",
+          "count": 7,
+          "rating": 30
+        }
+      },
+      {
+        "id": "TDTG",
+        "size": 20,
+        "value": {
+          "text": "2009-03-16T18:22:28"
+        }
+      },
+      {
+        "id": "TIT2",
+        "size": 31,
+        "formatFlags": {
+          "encrypted": true
+        },
+        "invalid": "Frame is encrypted"
+      },
+      {
+        "id": "TRCK",
+        "size": 6,
+        "value": {
+          "text": "02/10"
+        }
+      },
+      {
+        "id": "UFID",
+        "size": 52,
+        "value": {
+          "id": "foo@foo.com",
+          "text": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+        }
+      },
+      {
+        "id": "WOAR",
+        "size": 21,
+        "value": {
+          "text": "http://www.artist.com"
+        }
+      },
+      {
+        "id": "WOAR",
+        "size": 22,
+        "value": {
+          "text": "http://www.artist2.com"
+        }
+      },
+      {
+        "id": "WCOM",
+        "size": 21,
+        "value": {
+          "text": "http://www.google.com"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 21,
+        "value": {
+          "id": "User Frame",
+          "text": "User Data"
+        }
+      },
+      {
+        "id": "WXXX",
+        "size": 31,
+        "value": {
+          "id": "User URL",
+          "text": "http://www.google.com"
+        }
+      },
+      {
+        "id": "PCNT",
+        "size": 4,
+        "value": {
+          "num": 256
+        }
+      },
+      {
+        "id": "RVA2",
+        "size": 14,
+        "value": {
+          "channels": [
+            {
+              "adjustment": 2546,
+              "type": 1
+            }
+          ],
+          "id": "normalize"
+        }
+      }
+    ]
+  }
+}

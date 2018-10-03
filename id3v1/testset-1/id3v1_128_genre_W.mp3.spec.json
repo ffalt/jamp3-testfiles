@@ -1,0 +1,14 @@
+{
+	"id3v1": {
+		"version": 0,
+		"value": {
+			"title": "Tango",
+			"artist": "",
+			"album": "",
+			"year": "2003",
+			"comment": "",
+			"genreIndex": 113
+		},
+		"desc": "An ID3 tag with genre set to Tango. Only the first 80 genres are defined in the original ID3. "
+	}
+}

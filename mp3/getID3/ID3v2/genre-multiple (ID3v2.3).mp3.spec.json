@@ -1,0 +1,34 @@
+{
+	"id3v1": {
+		"version": 0,
+		"value": {
+			"title": "genre is Celtic",
+			"artist": "",
+			"album": "",
+			"year": "",
+			"comment": "",
+			"genreIndex": 255
+		}
+	},
+	"id3v2": {
+		"ver": 3,
+		"size": 174,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TIT2",
+				"size": 33,
+				"value": {
+					"text": "genre is Celtic"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 45,
+				"value": {
+					"text": "Celtic/Rock/Christmas"
+				}
+			}
+		]
+	}
+}

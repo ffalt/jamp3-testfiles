@@ -1,0 +1,72 @@
+{
+	"id3v1": {
+		"version": 1,
+		"value": {
+			"artist": "Santana",
+			"album": "Shaman",
+			"year": "",
+			"comment": "",
+			"track": 1,
+			"title": "Adouma",
+			"genreIndex": 12
+		}
+	},
+	"id3v2": {
+		"ver": 3,
+		"size": 2038,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TLEN",
+				"size": 7,
+				"value": {
+					"text": "255294"
+				}
+			},
+			{
+				"id": "APIC",
+				"size": 13,
+				"value": {
+					"pictureType": 0,
+					"mimeType": "image/jpg",
+					"description": ""
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 7,
+				"value": {
+					"text": "Adouma"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 2,
+				"value": {
+					"text": "1"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 8,
+				"value": {
+					"text": "Santana"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 9,
+				"value": {
+					"text": "Rock/Pop"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 7,
+				"value": {
+					"text": "Shaman"
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,76 @@
+{
+	"id3v2": {
+		"ver": 2,
+		"size": 10436,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TYE",
+				"size": 5,
+				"value": {
+					"text": "2009"
+				}
+			},
+			{
+				"id": "TRK",
+				"size": 3,
+				"value": {
+					"text": "2"
+				}
+			},
+			{
+				"id": "TCO",
+				"size": 5,
+				"value": {
+					"text": "(20)"
+				}
+			},
+			{
+				"id": "COM",
+				"size": 104,
+				"value": {
+					"id": "iTunNORM",
+					"language": "eng",
+					"text": " 00000000 00000000 00000000 00000000 00000017 00000017 00000000 00000000 00000000 00000000"
+				}
+			},
+			{
+				"id": "TT2",
+				"size": 32,
+				"value": {
+					"text": "NAMEABCDEFGHIJKLMNOPQRSTUVWXYZ"
+				}
+			},
+			{
+				"id": "TP1",
+				"size": 34,
+				"value": {
+					"text": "ARTISTABCDEFGHIJKLMNOPQRSTUVWXYZ"
+				}
+			},
+			{
+				"id": "TCM",
+				"size": 40,
+				"value": {
+					"text": "COMPOSERNAMEABCDEFGHIJKLMNOPQRSTUVWXYZ"
+				}
+			},
+			{
+				"id": "TAL",
+				"size": 37,
+				"value": {
+					"text": "ALBUMNAMEABCDEFGHIJKLMNOPQRSTUVWXYZ"
+				}
+			},
+			{
+				"id": "COM",
+				"size": 44,
+				"value": {
+					"id": "",
+					"language": "eng",
+					"text": "COMMENTSNAMEABCDEFGHIJKLMNOPQRSTUVWXYZ"
+				}
+			}
+		]
+	}
+}

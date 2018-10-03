@@ -1,0 +1,14 @@
+{
+	"id3v1": {
+		"version": 0,
+		"value": {
+			"title": "Psychedelic Rock",
+			"artist": "",
+			"album": "",
+			"year": "2003",
+			"comment": "",
+			"genreIndex": 93
+		},
+		"desc": "An ID3 tag with genre set to Psychedelic Rock. Only the first 80 genres are defined in the original ID3. "
+	}
+}

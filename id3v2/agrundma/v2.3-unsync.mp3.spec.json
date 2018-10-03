@@ -1,0 +1,67 @@
+{
+	"id3v2": {
+		"ver": 3,
+		"size": 1951,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "COMM",
+				"size": 36,
+				"value": {
+					"id": "Comment",
+					"language": "ENG",
+					"text": "http://www.mp3sugar.com/"
+				}
+			},
+			{
+				"id": "TPE2",
+				"size": 47,
+				"value": {
+					"text": "Carbon Based Lifeforms"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 23,
+				"value": {
+					"text": "Carbon Based Lifeforms"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 18,
+				"value": {
+					"text": "Hydroponic Garden"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 15,
+				"value": {
+					"text": "Silent Running"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 2,
+				"value": {
+					"text": "4"
+				}
+			},
+			{
+				"id": "TYER",
+				"size": 5,
+				"value": {
+					"text": "2003"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 5,
+				"value": {
+					"text": "(26)"
+				}
+			}
+		]
+	}
+}

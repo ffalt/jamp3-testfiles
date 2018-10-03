@@ -1,0 +1,202 @@
+{
+	"id3v2": {
+		"ver": 3,
+		"size": 4086,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TALB",
+				"size": 35,
+				"value": {
+					"text": "Pieces of Africa"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 19,
+				"value": {
+					"text": "Obo Addy"
+				}
+			},
+			{
+				"id": "TPE2",
+				"size": 31,
+				"value": {
+					"text": "Kronos Quartet"
+				}
+			},
+			{
+				"id": "TDAT",
+				"size": 5,
+				"value": {
+					"text": "1402"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 13,
+				"value": {
+					"text": "Other"
+				}
+			},
+			{
+				"id": "IPLS",
+				"size": 53,
+				"value": {
+					"list": [
+						"orchestra",
+						"Kronos Quartet"
+					]
+				}
+			},
+			{
+				"id": "TCMP",
+				"size": 3,
+				"value": {
+					"bool": true
+				}
+			},
+			{
+				"id": "TPUB",
+				"size": 19,
+				"value": {
+					"text": "Nonesuch"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 59,
+				"value": {
+					"text": "Wawshishijay (Our Beginning)"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 5,
+				"value": {
+					"text": "6/12"
+				}
+			},
+			{
+				"id": "UFID",
+				"size": 59,
+				"value": {
+					"id": "http://musicbrainz.org",
+					"text": "aed13cc6-89af-4b86-a62f-b3b193e930f6"
+				}
+			},
+			{
+				"id": "TYER",
+				"size": 5,
+				"value": {
+					"text": "1992"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 65,
+				"value": {
+					"id": "ALBUMARTISTSORT",
+					"text": "Kronos Quartet"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 35,
+				"value": {
+					"id": "ASIN",
+					"text": "B000005J15"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 47,
+				"value": {
+					"id": "CATALOGNUMBER",
+					"text": "79275-2"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 133,
+				"value": {
+					"id": "MusicBrainz Album Artist Id",
+					"text": "f5586dfa-7031-4af0-8042-19b6a1170389"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 119,
+				"value": {
+					"id": "MusicBrainz Album Id",
+					"text": "680c65e1-f3a1-48ee-997a-4b2a92f59650"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 77,
+				"value": {
+					"id": "MusicBrainz Album Release Country",
+					"text": "US"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 71,
+				"value": {
+					"id": "MusicBrainz Album Status",
+					"text": "official"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 61,
+				"value": {
+					"id": "MusicBrainz Album Type",
+					"text": "album"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 121,
+				"value": {
+					"id": "MusicBrainz Artist Id",
+					"text": "bd297b96-57d1-434a-80d6-f07f1c6df0c4"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 103,
+				"value": {
+					"id": "MusicIP PUID",
+					"text": "56376896-f6c3-344d-f9da-b1fc397521e2"
+				}
+			},
+			{
+				"id": "TIME",
+				"size": 5,
+				"value": {
+					"text": "1346"
+				}
+			},
+			{
+				"id": "PRIV",
+				"value": {
+					"id": "PeakValue"
+				}
+			},
+			{
+				"id": "XSOP",
+				"value": {
+					"text": "Addy, Obo"
+				}
+			},
+			{
+				"id": "PRIV",
+				"value": {
+					"id": "AverageLevel"
+				}
+			}
+		]
+	}
+}

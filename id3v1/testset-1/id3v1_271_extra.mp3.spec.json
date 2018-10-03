@@ -1,0 +1,14 @@
+{
+	"id3v1": {
+		"version": 0,
+		"value": {
+			"album": "räksmörgås",
+			"artist": "räksmörgås",
+			"comment": "räksmörgås",
+			"genreIndex": 0,
+			"title": "räksmörgås",
+			"year": "2003"
+		},
+		"desc": "Title with 8-bit iso-8859-1 characters (r�ksm�rg�s would be written as r&auml;ksm&ouml;rg&aring;s in HTML."
+	}
+}

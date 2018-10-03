@@ -1,0 +1,52 @@
+{
+	"id3v1": {
+		"version": 0,
+		"value": {
+			"artist": "AC/DC",
+			"album": "Back In Black [ReMaster]",
+			"title": "Back In Black",
+			"year": "1980",
+			"comment": "",
+			"genreIndex": 17
+		}
+	},
+	"id3v2": {
+		"ver": 3,
+		"size": 2038,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TXXX",
+				"size": 34,
+				"value": {
+					"id": "replaygain_album_peak",
+					"text": "1.135243297"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 31,
+				"value": {
+					"id": "replaygain_album_gain",
+					"text": "-9.64 dB"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 34,
+				"value": {
+					"id": "replaygain_track_peak",
+					"text": "1.090150952"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 31,
+				"value": {
+					"id": "replaygain_track_gain",
+					"text": "-9.15 dB"
+				}
+			}
+		]
+	}
+}

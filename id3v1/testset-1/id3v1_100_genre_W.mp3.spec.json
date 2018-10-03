@@ -1,0 +1,14 @@
+{
+	"id3v1": {
+		"version": 0,
+		"value": {
+			"title": "Bebob",
+			"artist": "",
+			"album": "",
+			"year": "2003",
+			"comment": "",
+			"genreIndex": 85
+		},
+		"desc": "An ID3 tag with genre set to Bebob. Only the first 80 genres are defined in the original ID3. "
+	}
+}

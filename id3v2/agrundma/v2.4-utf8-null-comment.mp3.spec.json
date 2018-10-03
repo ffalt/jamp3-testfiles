@@ -1,0 +1,179 @@
+{
+	"id3v2": {
+		"ver": 4,
+		"size": 24587,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TIT2",
+				"size": 17,
+				"value": {
+					"text": "Keep Going Daddy"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 12,
+				"value": {
+					"text": "Sweet Jones"
+				}
+			},
+			{
+				"id": "COMM",
+				"size": 13,
+				"value": {
+					"id": "",
+					"language": "eng",
+					"text": "Test 123"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 6,
+				"value": {
+					"text": "Lo-Fi"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 2,
+				"value": {
+					"text": "5"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 9,
+				"value": {
+					"text": "9 Lazy 9"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 15,
+				"value": {
+					"id": "date",
+					"text": "2003"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 58,
+				"value": {
+					"id": "MusicBrainz Album Id",
+					"text": "53d6e272-42f3-4dbc-b563-d405ed1da6ba"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 34,
+				"value": {
+					"id": "MusicBrainz Album Status",
+					"text": "official"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 29,
+				"value": {
+					"id": "MusicBrainz Album Type",
+					"text": "album"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 59,
+				"value": {
+					"id": "MusicBrainz Artist Id",
+					"text": "511481ee-1b97-4333-a161-0492f3e1303c"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 56,
+				"value": {
+					"id": "MusicBrainz TRM Id",
+					"text": "06e67c32-ea50-41f4-8a18-028ead2a05bd"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 213,
+				"value": {
+					"id": "MusicMagic Data",
+					"text": "AgEAC7vDnhqa3rgJge85SDHQgAGBCIFcyM+PTWJkkSXMn4ABgAHQAbMWQA7m0pNXg7uAAcl+iR8fdvcHgAHVc/uvEIWYKryugAKAAZ0NofCpW4KJ8nYtWd39gxOAbMykkJRQWY+Jw+CXK4F6zsyw9sXn3yiLAINfgAG6jKMNB4/ueYABzVnq0Ra9iq2wZoUDgAE="
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 780,
+				"value": {
+					"id": "MusicMagic Fingerprint",
+					"text": "AQZ8eJcdbBBkCn8HbAvMBsMGxwe1A+QDMwTUA2QEvwKRAnkCVwVsAhcFTAO9AuoB4gGvAVgBQQEfAO4BJgFKAW4A7gDsAM4AxgDcAMoA8wC8+7kj0IfM8+73bvic9xT53fi0+w370f1l/Mr9Nfp8/Yv9Cv4D/cv/Qftt/Ar9cf3S/iX+rP51/uT/Bv7d/rP+5f8c/zT/TP9f/0L/Vv8v/2EJlOlN4Wk9xRZVFUxAYhoLFtktKQviCJIS4Aj0EpkLEQbRBnAZTQZREZwMYQx5BZgE/AOYA08CvAJPAxQClgbHAhsC0wGCAVcBcQFfAYUBE/ZABD4J3fh138zrnD1L3H3n3TNm6YDyvgBu6eXYzPVk9C34Kw4G/pHXcuPI7pzzd/WG+sf35/wC/KD7vv2iBFb9cAAA/hH+bP4C/oL95P6SAL8CNQIJqTjhePccLZsAr/zC/BIIgQPyHFEN5yLEBcECGwNlGf8JWyT8GK4U+wovBfcEkQScAgcBNwCiAWYCegGfAd0AbQAgABsAJv/U/+D1MQIaAvArQ9SJ3ssNew4zxqb2Vu4e7s3nbAMAQvQAifAN987gb/ilE3EIJ/rDAVj8ov6u/4v+z/4P+zD9XP7Q/Uj/V/87/v7+rv7w/qn/WgFaAaMAyuds5ln36NZiFU0reVu6A6sBEt9eBQEZjwJ/A87+jurX+LICUgYE8uUAcf7u/zv+P/3z/bb/xv1X/mD9q/22/eX9zP3G/c/9Wf4+MSoREA=="
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 31,
+				"value": {
+					"id": "replaygain_album_gain",
+					"text": "-3.09 dB"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 31,
+				"value": {
+					"id": "replaygain_album_peak",
+					"text": "1.061635"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 31,
+				"value": {
+					"id": "replaygain_track_gain",
+					"text": "-2.79 dB"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 31,
+				"value": {
+					"id": "replaygain_track_peak",
+					"text": "1.035968"
+				}
+			},
+			{
+				"id": "XSOP",
+				"value": {
+					"text": "9 Lazy 9"
+				}
+			},
+			{
+				"id": "UFID",
+				"size": 59,
+				"value": {
+					"id": "http://musicbrainz.org",
+					"text": "de1ff113-022e-4f71-9489-c9aafe09dda8"
+				}
+			},
+			{
+				"id": "APIC",
+				"size": 21843,
+				"value": {
+					"mimeType": "image/jpeg",
+					"pictureType": 3,
+					"description": ""
+				}
+			},
+			{
+				"id": "TDRC",
+				"size": 5,
+				"value": {
+					"text": "2003"
+				}
+			}
+		]
+	}
+}

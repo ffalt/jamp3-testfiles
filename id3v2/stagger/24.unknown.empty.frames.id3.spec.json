@@ -1,0 +1,94 @@
+{
+	"id3v2": {
+		"ver": 4,
+		"frames": [
+			{
+				"id": "TRCK",
+				"size": 0,
+				"value": {
+					"text": ""
+				}
+			},
+			{
+				"id": "WXXX",
+				"size": 2,
+				"value": {
+					"id": "",
+					"text": ""
+				}
+			},
+			{
+				"id": "TCOP",
+				"size": 0,
+				"value": {
+					"text": ""
+				}
+			},
+			{
+				"id": "TOPE",
+				"size": 0,
+				"value": {
+					"text": ""
+				}
+			},
+			{
+				"id": "TCOM",
+				"size": 0,
+				"value": {
+					"text": ""
+				}
+			},
+			{
+				"id": "COMM",
+				"size": 5,
+				"value": {
+					"id": "",
+					"language": "",
+					"text": ""
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 9,
+				"value": {
+					"text": "(80)Folk"
+				}
+			},
+			{
+				"id": "TDRC",
+				"size": 5,
+				"value": {
+					"text": "2004"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 0,
+				"value": {
+					"text": ""
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 10,
+				"value": {
+					"text": "Eric Idle"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 13,
+				"value": {
+					"text": "The FCC Song"
+				}
+			},
+			{
+				"id": "TENC",
+				"size": 0,
+				"value": {
+					"text": ""
+				}
+			}
+		]
+	}
+}

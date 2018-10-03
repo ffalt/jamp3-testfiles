@@ -1,0 +1,28 @@
+{
+  "id3v2": {
+    "ver": 3,
+    "frames": [
+      {
+        "id": "TPE1",
+        "size": 51,
+        "value": {
+          "text": "NELLY"
+        }
+      },
+      {
+        "id": "TBPM",
+        "size": 6,
+        "value": {
+          "text": "00000"
+        }
+      },
+      {
+        "id": "TIT2",
+        "size": 51,
+        "value": {
+          "text": "SHAKE YOUR TAIL FEATHER"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id3v2": {
+    "ver": 3,
+    "size": 177,
+    "subversion": 0,
+    "frames": [
+      {
+        "id": "TALB",
+        "size": 39,
+        "formatFlags": {
+          "compressed": true
+        },
+        "value": {
+          "text": "This is a compressed frame."
+        }
+      }
+    ]
+  }
+}

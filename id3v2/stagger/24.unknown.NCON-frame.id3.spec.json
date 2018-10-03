@@ -1,0 +1,72 @@
+{
+	"id3v2": {
+		"ver": 4,
+		"size": 76985,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TLEN",
+				"size": 7,
+				"value": {
+					"text": "196506"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 6,
+				"value": {
+					"text": "04/16"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 17,
+				"value": {
+					"text": "Quicksand Lovers"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 9,
+				"value": {
+					"text": "Cristina"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 13,
+				"value": {
+					"text": "Sleep it Off"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 2,
+				"value": {
+					"text": "4"
+				}
+			},
+			{
+				"id": "NCON",
+				"size": 19660,
+				"value": {}
+			},
+			{
+				"id": "TDRC",
+				"size": 5,
+				"value": {
+					"text": "2004"
+				}
+			},
+			{
+				"id": "APIC",
+				"size": 56152,
+				"value": {
+					"mimeType": "image/jpeg",
+					"pictureType": 3,
+					"description": "http://2.bp.blogspot.com/_ZeE3pqHaS5w/SdhHYa8CmhI/AAAAAAAAAKM/sisHjtq9UJ8/s400/Cristina.jpg"
+				}
+			}
+		]
+	}
+}

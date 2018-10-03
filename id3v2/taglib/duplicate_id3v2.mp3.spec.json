@@ -1,0 +1,75 @@
+{
+  "title": "duplicate_id3v2",
+  "id3v2": {
+    "ver": 3,
+    "frames": [
+      {
+        "id": "TALB",
+        "value": {
+          "text": "AlbumXXXX"
+        }
+      },
+      {
+        "id": "TPE1",
+        "value": {
+          "text": "ArtistXXXX"
+        }
+      },
+      {
+        "id": "TIT2",
+        "value": {
+          "text": "TitleXXXX"
+        }
+      },
+      {
+        "id": "PRIV",
+        "binSize": 16,
+        "value": {
+          "id": "WM/WMCollectionGroupID"
+        }
+      },
+      {
+        "id": "PRIV",
+        "binSize": 114,
+        "value": {
+          "id": "WM/UniqueFileIdentifier"
+        }
+      },
+      {
+        "id": "PRIV",
+        "binSize": 8,
+        "value": {
+          "id": "WM/Provider"
+        }
+      },
+      {
+        "id": "PRIV",
+        "binSize": 16,
+        "value": {
+          "id": "WM/MediaClassPrimaryID"
+        }
+      },
+      {
+        "id": "PRIV",
+        "binSize": 16,
+        "value": {
+          "id": "WM/WMCollectionID"
+        }
+      },
+      {
+        "id": "PRIV",
+        "binSize": 16,
+        "value": {
+          "id": "WM/WMContentID"
+        }
+      },
+      {
+        "id": "PRIV",
+        "binSize": 16,
+        "value": {
+          "id": "WM/MediaClassSecondaryID"
+        }
+      }
+    ]
+  }
+}

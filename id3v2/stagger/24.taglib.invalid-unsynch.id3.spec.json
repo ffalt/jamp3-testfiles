@@ -1,0 +1,101 @@
+{
+	"id3v2": {
+		"ver": 4,
+		"size": 22932,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "COMM",
+				"size": 103,
+				"value": {
+					"id": "iTunNORM",
+					"language": "eng",
+					"text": " 00000B9B 00000B9B 00001D05 00001D05 0000F01A 0000F01A 00007F31 00007F31 00009F7D 00009F7D"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 16,
+				"value": {
+					"text": "Myst III: Exile"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 11,
+				"value": {
+					"text": "Soundtrack"
+				}
+			},
+			{
+				"id": "TDRC",
+				"size": 5,
+				"value": {
+					"text": "2001"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 11,
+				"value": {
+					"text": "Main Theme"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 10,
+				"value": {
+					"text": "Jack Wall"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 6,
+				"value": {
+					"text": "01/30"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 31,
+				"value": {
+					"id": "replaygain_album_gain",
+					"text": "-4.20 dB"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 31,
+				"value": {
+					"id": "replaygain_album_peak",
+					"text": "1.080719"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 31,
+				"value": {
+					"id": "replaygain_track_gain",
+					"text": "-4.73 dB"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 31,
+				"value": {
+					"id": "replaygain_track_peak",
+					"text": "0.993690"
+				}
+			},
+			{
+				"id": "APIC",
+				"size": 21615,
+				"value": {
+					"mimeType": "image/jpeg",
+					"pictureType": 3,
+					"description": ""
+				}
+			}
+		]
+	}
+}

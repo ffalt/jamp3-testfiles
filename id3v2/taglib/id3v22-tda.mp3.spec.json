@@ -1,0 +1,26 @@
+{
+  "title": "testUpdateFullDate22",
+  "id3v2": {
+    "ver": 2,
+    "frames": [
+      {
+        "id": "TDA",
+        "value": {
+          "text": "0304"
+        }
+      },
+      {
+        "id": "TRK",
+        "value": {
+          "text": "1"
+        }
+      },
+      {
+        "id": "TYE",
+        "value": {
+          "text": "2010"
+        }
+      }
+    ]
+  }
+}

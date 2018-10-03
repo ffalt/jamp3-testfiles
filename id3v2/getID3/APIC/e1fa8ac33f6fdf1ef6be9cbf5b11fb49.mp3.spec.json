@@ -1,0 +1,88 @@
+{
+	"id3v1": {
+		"version": 1,
+		"value": {
+			"artist": "The Prodigy",
+			"album": "Music For The Jilted Generatio",
+			"year": "1994",
+			"comment": "Repack by Ellsr",
+			"title": "Intro",
+			"track": 1,
+			"genreIndex": 255
+		}
+	},
+	"id3v2": {
+		"ver": 3,
+		"size": 3856618,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TENC",
+				"size": 34,
+				"value": {
+					"text": "www.mp3reactor.2xt.de (MusicBoys)"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 12,
+				"value": {
+					"text": "The Prodigy"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 32,
+				"value": {
+					"text": "Music For The Jilted Generation"
+				}
+			},
+			{
+				"id": "TYER",
+				"size": 5,
+				"value": {
+					"text": "1994"
+				}
+			},
+			{
+				"id": "COMM",
+				"size": 20,
+				"value": {
+					"id": "",
+					"language": "XXX",
+					"text": "Repack by Ellsr"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 6,
+				"value": {
+					"text": "Intro"
+				}
+			},
+			{
+				"id": "APIC",
+				"size": 3856407,
+				"value": {
+					"pictureType": 0,
+					"mimeType": "image/jpeg",
+					"description": ""
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 6,
+				"value": {
+					"text": "1/13"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 6,
+				"value": {
+					"text": "(18)"
+				}
+			}
+		]
+	}
+}

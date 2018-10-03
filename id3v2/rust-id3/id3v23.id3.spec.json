@@ -1,0 +1,74 @@
+{
+	"id3v2": {
+		"ver": 3,
+		"size": 27648,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TALB",
+				"size": 7,
+				"value": {
+					"text": "Album"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 51,
+				"value": {
+					"text": "Artist / Another Artist"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 7,
+				"value": {
+					"text": "Title"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 27,
+				"value": {
+					"text": "Track / 1/1"
+				}
+			},
+			{
+				"id": "TPOS",
+				"size": 11,
+				"value": {
+					"text": "1/1"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 15,
+				"value": {
+					"text": "Genre"
+				}
+			},
+			{
+				"id": "APIC",
+				"size": 26536,
+				"value": {
+					"mimeType": "image/png",
+					"pictureType": 3,
+					"description": ""
+				}
+			},
+			{
+				"id": "TYER",
+				"size": 6,
+				"value": {
+					"text": "2017"
+				}
+			},
+			{
+				"id": "TPE2",
+				"size": 29,
+				"value": {
+					"text": "Album Artist"
+				}
+			}
+		]
+	}
+}

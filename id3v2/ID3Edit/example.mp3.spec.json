@@ -1,0 +1,48 @@
+{
+  "id3v2": {
+    "ver": 2,
+    "size": 42243,
+    "subversion": 0,
+    "frames": [
+      {
+        "id": "PIC",
+        "size": 31997,
+        "value": {
+          "mimeType": "JPG",
+          "pictureType": 0,
+          "description": ""
+        }
+      },
+      {
+        "id": "TT2",
+        "size": 14,
+        "value": {
+          "text": "example song"
+        }
+      },
+      {
+        "id": "TP1",
+        "size": 16,
+        "value": {
+          "text": "example artist"
+        }
+      },
+      {
+        "id": "TAL",
+        "size": 15,
+        "value": {
+          "text": "example album"
+        }
+      },
+      {
+        "id": "ULT",
+        "size": 20,
+        "value": {
+          "id": "",
+          "language": "eng",
+          "text": "example lyrics"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+	"id3v2": {
+		"ver": 3,
+		"frames": [
+			{
+				"id": "TRCK",
+				"size": 3,
+				"value": {
+					"text": "26"
+				}
+			},
+			{
+				"id": "TBPM",
+				"size": 6,
+				"value": {
+					"text": "0"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 6,
+				"value": {
+					"text": "JPop"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 6,
+				"value": {
+					"text": "aiko"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 13,
+				"value": {
+					"text": "aikosingles"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 9,
+				"value": {
+					"text": "花火"
+				}
+			}
+		]
+	}
+}

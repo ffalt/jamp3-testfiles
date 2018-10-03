@@ -1,0 +1,153 @@
+{
+	"id3v2": {
+		"ver": 3,
+		"size": 4086,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TYER",
+				"size": 5,
+				"value": {
+					"text": "1997"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 2,
+				"value": {
+					"text": "1"
+				}
+			},
+			{
+				"id": "POPM",
+				"size": 31,
+				"value": {
+					"count": 0,
+					"email": "Windows Media Player 9 Series",
+					"rating": 196
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 6,
+				"value": {
+					"text": "Album"
+				}
+			},
+			{
+				"id": "TPE2",
+				"size": 13,
+				"value": {
+					"text": "Album artist"
+				}
+			},
+			{
+				"id": "WOAR",
+				"size": 10,
+				"value": {
+					"text": "Author URL"
+				}
+			},
+			{
+				"id": "TBPM",
+				"size": 17,
+				"value": {
+					"text": "Beats per minute"
+				}
+			},
+			{
+				"id": "COMM",
+				"size": 13,
+				"value": {
+					"id": "",
+					"language": "eng",
+					"text": "Comments"
+				}
+			},
+			{
+				"id": "TPE3",
+				"size": 10,
+				"value": {
+					"text": "Conductor"
+				}
+			},
+			{
+				"id": "TENC",
+				"size": 11,
+				"value": {
+					"text": "Encoded by"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 6,
+				"value": {
+					"text": "Genre"
+				}
+			},
+			{
+				"id": "TIT1",
+				"size": 18,
+				"value": {
+					"text": "Group description"
+				}
+			},
+			{
+				"id": "TKEY",
+				"size": 12,
+				"value": {
+					"text": "Initial key"
+				}
+			},
+			{
+				"id": "PRIV",
+				"size": 18,
+				"value": {
+					"id": "WM/Mood"
+				}
+			},
+			{
+				"id": "TPOS",
+				"size": 12,
+				"value": {
+					"text": "Part of set"
+				}
+			},
+			{
+				"id": "TPUB",
+				"size": 10,
+				"value": {
+					"text": "Publisher"
+				}
+			},
+			{
+				"id": "TIT3",
+				"size": 17,
+				"value": {
+					"text": "Track's Subtitle"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 14,
+				"value": {
+					"text": "Track's Title"
+				}
+			},
+			{
+				"id": "TCOM",
+				"size": 9,
+				"value": {
+					"text": "Composer"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 21,
+				"value": {
+					"text": "Artists/Album artist"
+				}
+			}
+		]
+	}
+}

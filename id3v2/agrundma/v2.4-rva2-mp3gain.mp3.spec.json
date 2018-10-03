@@ -1,0 +1,209 @@
+{
+  "id3v2": {
+    "ver": 4,
+    "size": 45046,
+    "subversion": 0,
+    "frames": [
+      {
+        "id": "TIT2",
+        "size": 26,
+        "value": {
+          "text": "Dark Leaves Form a Thread"
+        }
+      },
+      {
+        "id": "TPE1",
+        "size": 10,
+        "value": {
+          "text": "Destroyer"
+        }
+      },
+      {
+        "id": "TRCK",
+        "size": 5,
+        "value": {
+          "text": "2/11"
+        }
+      },
+      {
+        "id": "TALB",
+        "size": 18,
+        "value": {
+          "text": "Trouble in Dreams"
+        }
+      },
+      {
+        "id": "TDRC",
+        "size": 11,
+        "value": {
+          "text": "2008-03-17"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 21,
+        "value": {
+          "id": "BARCODE",
+          "text": "883870044028"
+        }
+      },
+      {
+        "id": "TSOP",
+        "size": 10,
+        "value": {
+          "text": "Destroyer"
+        }
+      },
+      {
+        "id": "APIC",
+        "size": 42419,
+        "formatFlags": {
+          "unsynchronised": true
+        },
+        "value": {
+          "mimeType": "image/jpeg",
+          "pictureType": 3,
+          "description": ""
+        }
+      },
+      {
+        "id": "TPUB",
+        "size": 20,
+        "value": {
+          "text": "Rough Trade Records"
+        }
+      },
+      {
+        "id": "UFID",
+        "size": 59,
+        "value": {
+          "id": "http://musicbrainz.org",
+          "text": "0b4c84e8-68fb-469b-b4a2-f7560f668b15"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 26,
+        "value": {
+          "id": "ALBUMARTISTSORT",
+          "text": "Destroyer"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 29,
+        "value": {
+          "id": "MusicBrainz Album Type",
+          "text": "album"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 16,
+        "value": {
+          "id": "ASIN",
+          "text": "B0012IWHPK"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 34,
+        "value": {
+          "id": "MusicBrainz Album Status",
+          "text": "official"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 58,
+        "value": {
+          "id": "MusicBrainz Album Id",
+          "text": "1fd5c22e-3261-417c-b4c7-0843875acfe7"
+        }
+      },
+      {
+        "id": "TPE2",
+        "size": 10,
+        "value": {
+          "text": "Destroyer"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 25,
+        "value": {
+          "id": "CATALOGNUMBER",
+          "text": "RTRADCD440"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 65,
+        "value": {
+          "id": "MusicBrainz Album Artist Id",
+          "text": "61604b45-8a91-4e33-a1b6-45d7b1fec4e5"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 59,
+        "value": {
+          "id": "MusicBrainz Artist Id",
+          "text": "61604b45-8a91-4e33-a1b6-45d7b1fec4e5"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 37,
+        "value": {
+          "id": "MusicBrainz Album Release Country",
+          "text": "GB"
+        }
+      },
+      {
+        "id": "RVA2",
+        "size": 12,
+        "value": {
+          "id": "track",
+          "channels": [
+            {
+              "adjustment": -3829,
+              "peak": 38405,
+              "type": 1
+            }
+          ]
+        }
+      },
+      {
+        "id": "RVA2",
+        "size": 12,
+        "value": {
+          "id": "album",
+          "channels": [
+            {
+              "adjustment": -3640,
+              "peak": 41223,
+              "type": 1
+            }
+          ]
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 23,
+        "value": {
+          "id": "MP3GAIN_MINMAX",
+          "text": "128,203"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 29,
+        "value": {
+          "id": "MP3GAIN_ALBUM_MINMAX",
+          "text": "114,216"
+        }
+      }
+    ]
+  }
+}

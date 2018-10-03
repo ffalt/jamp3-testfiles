@@ -1,0 +1,14 @@
+{
+	"id3v1": {
+		"version": 0,
+		"value": {
+			"title": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaA",
+			"artist": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbB",
+			"album": "cccccccccccccccccccccccccccccC",
+			"year": "2003",
+			"comment": "dddddddddddddddddddddddddddddD",
+			"genreIndex": 0
+		},
+		"desc": "An ID3v1 tag with all fields set to longest value."
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"id3v2": {
+		"ver": 3,
+		"size": 246,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "PRIV",
+				"size": 39,
+				"value": {
+					"id": "WM/MediaClassPrimaryID"
+				}
+			},
+			{
+				"id": "PRIV",
+				"size": 41,
+				"value": {
+					"id": "WM/MediaClassSecondaryID"
+				}
+			}
+		]
+	}
+}

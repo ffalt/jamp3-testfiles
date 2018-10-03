@@ -1,0 +1,126 @@
+{
+	"id3v1": {
+		"version": 1,
+		"value": {
+			"title": "TITLE1234567890123456789012345",
+			"artist": "ARTIST123456789012345678901234",
+			"album": "ALBUM1234567890123456789012345",
+			"year": "2001",
+			"comment": "COMMENT123456789012345678901",
+			"track": 1,
+			"genreIndex": 1
+		}
+	},
+	"id3v2": {
+		"ver": 3,
+		"size": 3137,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TALB",
+				"size": 63,
+				"value": {
+					"text": "ALBUM1234567890123456789012345"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 63,
+				"value": {
+					"text": "ARTIST123456789012345678901234"
+				}
+			},
+			{
+				"id": "COMM",
+				"size": 92,
+				"value": {
+					"id": "ID3v1 Comment",
+					"language": "eng",
+					"text": "COMMENT123456789012345678901"
+				}
+			},
+			{
+				"id": "COMM",
+				"size": 66,
+				"value": {
+					"id": "",
+					"language": "eng",
+					"text": "COMMENT123456789012345678901"
+				}
+			},
+			{
+				"id": "TCOM",
+				"size": 65,
+				"value": {
+					"text": "COMPOSER23456789012345678901234"
+				}
+			},
+			{
+				"id": "TCOP",
+				"size": 65,
+				"value": {
+					"text": "COPYRIGHT2345678901234567890123"
+				}
+			},
+			{
+				"id": "TENC",
+				"size": 65,
+				"value": {
+					"text": "ENCODER234567890123456789012345"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 27,
+				"value": {
+					"text": "Classic Rock"
+				}
+			},
+			{
+				"id": "TOPE",
+				"size": 65,
+				"value": {
+					"text": "ORIGARTIST234567890123456789012"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 63,
+				"value": {
+					"text": "TITLE1234567890123456789012345"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 2,
+				"value": {
+					"text": "1"
+				}
+			},
+			{
+				"id": "TYER",
+				"size": 5,
+				"value": {
+					"text": "2001"
+				}
+			},
+			{
+				"id": "WXXX",
+				"size": 36,
+				"value": {
+					"id": "",
+					"text": "URL2345678901234567890123456789"
+				}
+			},
+			{
+				"id": "APIC",
+				"size": 1898,
+				"value": {
+					"mimeType": "image/png",
+					"pictureType": 0,
+					"description": ""
+				}
+			}
+		]
+	}
+}

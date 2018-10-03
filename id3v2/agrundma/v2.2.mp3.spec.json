@@ -1,0 +1,51 @@
+{
+	"id3v2": {
+		"ver": 2,
+		"frames": [
+			{
+				"id": "TT2",
+				"size": 13,
+				"value": {
+					"text": "Test v2.2.0"
+				}
+			},
+			{
+				"id": "TP1",
+				"size": 7,
+				"value": {
+					"text": "Pudge"
+				}
+			},
+			{
+				"id": "TRK",
+				"size": 3,
+				"value": {
+					"text": "2"
+				}
+			},
+			{
+				"id": "TYE",
+				"size": 6,
+				"value": {
+					"text": "1998"
+				}
+			},
+			{
+				"id": "TCO",
+				"size": 6,
+				"value": {
+					"text": "(37)"
+				}
+			},
+			{
+				"id": "COM",
+				"size": 25,
+				"value": {
+					"id": "",
+					"language": "eng",
+					"text": "All Rights Reserved"
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,231 @@
+{
+	"id3v2": {
+		"ver": 4,
+		"size": 25600,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TCON",
+				"size": 9,
+				"value": {
+					"text": "Ambient"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 11,
+				"value": {
+					"text": "Aquamarine"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 11,
+				"value": {
+					"text": "Pentatonik"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 4,
+				"value": {
+					"text": "1/9"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 24,
+				"value": {
+					"text": "A Thousand Paper Cranes"
+				}
+			},
+			{
+				"id": "TPOS",
+				"size": 14,
+				"formatFlags": {
+					"data_length_indicator": true,
+					"unsynchronised": true
+				},
+				"value": {
+					"text": "1/1"
+				}
+			},
+			{
+				"id": "TDRC",
+				"size": 8,
+				"value": {
+					"text": "2009-09"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 29,
+				"value": {
+					"id": "MusicBrainz Album Type",
+					"text": "album"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 65,
+				"value": {
+					"id": "MusicBrainz Album Artist Id",
+					"text": "43150516-3a1c-449a-a99d-6436d9f4c395"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 59,
+				"value": {
+					"id": "MusicBrainz Artist Id",
+					"text": "43150516-3a1c-449a-a99d-6436d9f4c395"
+				}
+			},
+			{
+				"id": "COMM",
+				"size": 74,
+				"formatFlags": {
+					"data_length_indicator": true,
+					"unsynchronised": true
+				},
+				"value": {
+					"id": "",
+					"language": "eng",
+					"text": "Amazon.com Song ID: 212643011"
+				}
+			},
+			{
+				"id": "TPE3",
+				"size": 8,
+				"formatFlags": {
+					"data_length_indicator": true,
+					"unsynchronised": true
+				},
+				"value": {
+					"text": ""
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 23,
+				"value": {
+					"id": "CATALOGNUMBER",
+					"text": "DUKE149D"
+				}
+			},
+			{
+				"id": "TCOP",
+				"size": 66,
+				"formatFlags": {
+					"data_length_indicator": true,
+					"unsynchronised": true
+				},
+				"value": {
+					"text": "2008 Hydrogen Dukebox Records"
+				}
+			},
+			{
+				"id": "APIC",
+				"size": 24489,
+				"formatFlags": {
+					"data_length_indicator": true,
+					"unsynchronised": true
+				},
+				"value": {
+					"mimeType": "image/jpeg",
+					"pictureType": 3,
+					"description": ""
+				}
+			},
+			{
+				"id": "UFID",
+				"size": 59,
+				"value": {
+					"id": "http://musicbrainz.org",
+					"text": "6b82249c-47fd-43f5-83f9-e7289d8f4d21"
+				}
+			},
+			{
+				"id": "TSOP",
+				"size": 11,
+				"value": {
+					"text": "Pentatonik"
+				}
+			},
+			{
+				"id": "TCOM",
+				"size": 8,
+				"formatFlags": {
+					"data_length_indicator": true,
+					"unsynchronised": true
+				},
+				"value": {
+					"text": ""
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 58,
+				"value": {
+					"id": "MusicBrainz Album Id",
+					"text": "0a1036d0-1396-4819-be45-6dbeef19e3c7"
+				}
+			},
+			{
+				"id": "TPUB",
+				"size": 17,
+				"value": {
+					"text": "Hydrogen Dukebox"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 37,
+				"value": {
+					"id": "MusicBrainz Album Release Country",
+					"text": "GB"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 34,
+				"value": {
+					"id": "MusicBrainz Album Status",
+					"text": "official"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 32,
+				"value": {
+					"id": "replaygain_album_gain",
+					"text": "-4.74 dB"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 32,
+				"value": {
+					"id": "replaygain_album_peak",
+					"text": "1.052554"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 32,
+				"value": {
+					"id": "replaygain_track_gain",
+					"text": "-3.98 dB"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 32,
+				"value": {
+					"id": "replaygain_track_peak",
+					"text": "1.050547"
+				}
+			}
+		]
+	}
+}

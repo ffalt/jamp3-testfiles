@@ -1,0 +1,126 @@
+{
+	"id3v2": {
+		"ver": 4,
+		"size": 32720,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TIT2",
+				"size": 10,
+				"value": {
+					"text": "Raw Power"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 9,
+				"value": {
+					"text": "Iggy Pop"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 26,
+				"value": {
+					"text": "W/David Bowie Mantra 1977"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 27,
+				"value": {
+					"text": "Proto-Punk, Rock, Iggy Pop"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 2,
+				"value": {
+					"text": "1"
+				}
+			},
+			{
+				"id": "USLT",
+				"size": 1735,
+				"value": {
+					"id": "",
+					"language": "eng",
+					"text": "Dance to the beat of the livin' dead\nLose sleep baby and stay away from bed\nRaw power is sure to come a-runnin' to you\n\nIf you're alone and you got the feel\nSo am I baby let's move on out of here\nRaw power is sure to come a-runnin' to you\n\nRaw power got a magic touch\nRaw power is a much too much\nHappiness is guaranteed\nIt was made for you and me\n\nRaw power honey just won't quit\nRaw power I can feel it\nRaw power hear it, can't be beat\nPoppin' eyes and fast and young feel\n\nDon't you try, don't you try to tell me what to do\nEverybody always tryin' to tell me what to do\n\nLook in the eyes of the savage girl\nFall deep in love in the underworld\nRaw power is sure to come a runnin' to you\n\nIf you're alone and you got the shakes\nSo am I baby, I got what it takes\nRaw power is sure to come a runnin' to you\n\nRaw power got a healin' hand\nRaw power can destroy a man\nRaw power is so more than soul\nGot a son called rock and roll\n\nRaw power honey just won't quit\nRaw power I can feel it\nRaw power honey can't be beat\nGet down baby and kiss my feet\n\nEverybody always tryin' to tell me what to do\nDon't you try, don't you try to tell me what to do\nEverybody always tryin' to tell me what to do\nDon't you try, don't you try to tell me what to do\n\nRaw power's got no place to go\nRaw power honey it don't want to know\nRaw power is guaranteed\nRaw power is laughin' at you and me\n\nAnd this is what I wanna know\nCan you feel it? Can you feel it?\nCan you feel it? Can you feel it?\nCan you feel it? Can you feel it?\n\nRaw power, raw power\nRaw power, raw power\nCan you feel it? Can you feel it?\nRaw power, raw power\n\nRaw power, raw power\nRaw power, raw power\nCan you feel it?\n\n\n  ©SCREEN GEMS-EMI MUSIC INC\n \n Lyrics delivered by lyricsfly.com \n"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 74,
+				"value": {
+					"id": "HTTP://VIVALESBOOTLEGS.BLOGSPOT.COM/",
+					"text": "http://vivalesbootlegs.blogspot.com/"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 46,
+				"value": {
+					"id": "VISIT US",
+					"text": "http://vivalesbootlegs.blogspot.com/"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 58,
+				"value": {
+					"id": "Ãƒâ€šÃ‚Â ",
+					"text": "http://vivalesbootlegs.blogspot.com/"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 13,
+				"value": {
+					"id": "TOTALDISCS",
+					"text": "1"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 50,
+				"value": {
+					"id": "MusicIP PUID",
+					"text": "a8bc5d86-80d1-f3a0-e225-53ef60497715"
+				}
+			},
+			{
+				"id": "WXXX",
+				"size": 38,
+				"value": {
+					"id": "",
+					"text": "http://vivalesbootlegs.blogspot.com/"
+				}
+			},
+			{
+				"id": "TPUB",
+				"size": 9,
+				"value": {
+					"text": "No Label"
+				}
+			},
+			{
+				"id": "COMM",
+				"size": 33,
+				"value": {
+					"id": "",
+					"language": "eng",
+					"text": "Vivalesbootlegs.blogspot.com"
+				}
+			},
+			{
+				"id": "APIC",
+				"size": 30130,
+				"value": {
+					"mimeType": "image/jpeg",
+					"pictureType": 0,
+					"description": ""
+				}
+			}
+		]
+	}
+}

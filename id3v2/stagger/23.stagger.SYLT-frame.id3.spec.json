@@ -1,0 +1,54 @@
+{
+  "id3v2": {
+    "ver": 3,
+    "size": 264,
+    "subversion": 0,
+    "frames": [
+      {
+        "id": "TIT2",
+        "size": 7,
+        "value": {
+          "text": "Title"
+        }
+      },
+      {
+        "id": "TPE1",
+        "size": 8,
+        "value": {
+          "text": "Artist"
+        }
+      },
+      {
+        "id": "TALB",
+        "size": 7,
+        "value": {
+          "text": "Album"
+        }
+      },
+      {
+        "id": "SYLT",
+        "size": 74,
+        "value": {
+          "contentType": 1,
+          "events": [
+            {
+              "text": "Random lyrics",
+              "timestamp": 2000
+            },
+            {
+              "text": "\nmore lyrics",
+              "timestamp": 2500
+            },
+            {
+              "text": "\nyet more text",
+              "timestamp": 3000
+            }
+          ],
+          "id": "Sample lyrics",
+          "language": "ENG",
+          "timestampFormat": 2
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id3v1": {
+    "version": 0,
+    "value": {
+      "title": "Bye Bye",
+      "artist": "Mariah Carey",
+      "album": "E=MC²",
+      "year": "",
+      "comment": "",
+      "genreIndex": 255
+    }
+  },
+  "id3v2": {
+    "ver": 3,
+    "size": 35258,
+    "subversion": 0,
+    "frames": [
+      {
+        "id": "TIT2",
+        "size": 17,
+        "value": {
+          "text": "Bye Bye"
+        }
+      },
+      {
+        "id": "TPE1",
+        "size": 27,
+        "value": {
+          "text": "Mariah Carey"
+        }
+      },
+      {
+        "id": "TALB",
+        "size": 13,
+        "value": {
+          "text": "E=Mc²"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 69,
+        "value": {
+          "id": "Tagging time",
+          "text": "2012-07-17T05:28:12"
+        }
+      },
+      {
+        "id": "TYER",
+        "size": 23,
+        "value": {
+          "text": "2008-04-14"
+        }
+      },
+      {
+        "id": "APIC",
+        "size": 33975,
+        "value": {
+          "mimeType": "image/jpeg",
+          "pictureType": 3,
+          "description": "e"
+        }
+      }
+    ]
+  }
+}

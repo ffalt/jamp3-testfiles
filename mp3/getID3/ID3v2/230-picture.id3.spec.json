@@ -1,0 +1,79 @@
+{
+	"id3v2": {
+		"ver": 3,
+		"size": 8513,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TIT2",
+				"size": 9,
+				"value": {
+					"text": "Aquarium"
+				}
+			},
+			{
+				"id": "TIT1",
+				"size": 72,
+				"value": {
+					"text": "Short fraction of 'Carnival of the Animals: A Grand Zoological Fantasy'"
+				}
+			},
+			{
+				"id": "TCOM",
+				"size": 20,
+				"value": {
+					"text": "Camille Saint-Saëns"
+				}
+			},
+			{
+				"id": "TPE2",
+				"size": 34,
+				"value": {
+					"text": "Slovakia Radio Symphony Orchestra"
+				}
+			},
+			{
+				"id": "TPE3",
+				"size": 14,
+				"value": {
+					"text": "Ondrej Lenárd"
+				}
+			},
+			{
+				"id": "TCOP",
+				"size": 28,
+				"value": {
+					"text": "1996 HNH international Ltd."
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 5,
+				"value": {
+					"text": "(32)"
+				}
+			},
+			{
+				"id": "IPLS",
+				"size": 45,
+				"value": {
+					"list": [
+						"Producer",
+						"Martin Sauer",
+						"Piano",
+						"Peter Toperczer"
+					]
+				}
+			},
+			{
+				"id": "APIC",
+				"size": 8196,
+				"value": {
+					"pictureType": 11,
+					"mimeType": "image/jpeg",
+					"description": "B/W picture of Saint-Saëns"
+				}
+			}
+		]
+	}
+}

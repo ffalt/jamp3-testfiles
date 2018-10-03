@@ -1,0 +1,14 @@
+{
+	"id3v1": {
+		"version": 0,
+		"value": {
+			"title": "Fast Fusion",
+			"artist": "",
+			"album": "",
+			"year": "2003",
+			"comment": "",
+			"genreIndex": 84
+		},
+		"desc": "An ID3 tag with genre set to Fast Fusion. Only the first 80 genres are defined in the original ID3. "
+	}
+}

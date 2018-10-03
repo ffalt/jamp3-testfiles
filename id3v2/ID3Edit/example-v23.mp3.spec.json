@@ -1,0 +1,41 @@
+{
+  "id3v1": {
+    "version": 0,
+    "value": {
+      "title": "A title",
+      "artist": "An artist",
+      "album": "An album",
+      "year": "",
+      "comment": "",
+      "genreIndex": 255
+    }
+  },
+  "id3v2": {
+    "ver": 3,
+    "size": 2141,
+    "subversion": 0,
+    "frames": [
+      {
+        "id": "TALB",
+        "size": 21,
+        "value": {
+          "text": "An album"
+        }
+      },
+      {
+        "id": "TPE1",
+        "size": 23,
+        "value": {
+          "text": "An artist"
+        }
+      },
+      {
+        "id": "TIT2",
+        "size": 19,
+        "value": {
+          "text": "A title"
+        }
+      }
+    ]
+  }
+}

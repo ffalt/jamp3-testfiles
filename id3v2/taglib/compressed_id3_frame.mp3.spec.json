@@ -1,0 +1,88 @@
+{
+	"title": "testCompressedFrameWithBrokenLength",
+	"id3v2": {
+		"ver": 3,
+		"frames": [
+			{
+				"id": "APIC",
+				"binSize": 86414,
+				"formatFlags": {
+					"compressed": true
+				},
+				"value": {
+					"mimeType": "image/bmp",
+					"pictureType": 0,
+					"description": ""
+				}
+			},
+			{
+				"id": "WOAR",
+				"size": 0,
+				"value": {
+					"text": ""
+				}
+			},
+			{
+				"id": "POPM",
+				"size": 6,
+				"value": {
+					"count": 0,
+					"rating": 0,
+					"email": ""
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 1,
+				"value": {
+					"text": ""
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 13,
+				"value": {
+					"text": "Techno-Dance"
+				}
+			},
+			{
+				"id": "COMM",
+				"size": 5,
+				"value": {
+					"language": "eng",
+					"id": "",
+					"text": ""
+				},
+				"title": "Comments"
+			},
+			{
+				"id": "TYER",
+				"size": 1,
+				"value": {
+					"text": ""
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 12,
+				"value": {
+					"text": "<Undefined>"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 5,
+				"value": {
+					"text": "Moby"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 31,
+				"value": {
+					"text": "Braveheart Theme (Techno remix"
+				}
+			}
+		]
+	}
+}

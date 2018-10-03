@@ -1,0 +1,160 @@
+{
+	"id3v2": {
+		"ver": 3,
+		"size": 24472,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "COMM",
+				"size": 32,
+				"value": {
+					"id": "MusicMatch_Tempo",
+					"language": "ený",
+					"text": "Pretty fast"
+				}
+			},
+			{
+				"id": "COMM",
+				"size": 26,
+				"value": {
+					"id": "MusicMatch_Mood",
+					"language": "ený",
+					"text": "Upbeat"
+				}
+			},
+			{
+				"id": "COMM",
+				"size": 28,
+				"value": {
+					"id": "MusicMatch_Situation",
+					"language": "ený",
+					"text": "Any"
+				}
+			},
+			{
+				"id": "COMM",
+				"size": 534,
+				"value": {
+					"id": "MusicMatch_Bio",
+					"language": "ený",
+					"text": "CAREY BELL\r\n\r\nCarey Bell, who has worked with Muddy Waters, Willie Dixon, John Lee Hooker and\r\nEarl Hooker, is one of Chicago's outstanding harmonica players. Carey demonstrates his\r\nclassic, unadulterated style that recalls his mentors, Walter Horton and Little Walter Jacobs.\r\nThe Detroit News said Bell \"plays a tough yet essentially mellow style of blues, a bracing mix\r\nof deep country roots and just enough citified grit to penetrate a noisy, musky, gin-soaked bar.\r\n\r\n\r\nEnjoy your copy of MusicMatch Jukebox!"
+				}
+			},
+			{
+				"id": "COMM",
+				"size": 35,
+				"value": {
+					"id": "MusicMatch_Preference",
+					"language": "ený",
+					"text": "Excellent"
+				}
+			},
+			{
+				"id": "TMED",
+				"size": 8,
+				"value": {
+					"text": "UNKNOWN"
+				}
+			},
+			{
+				"id": "TRDO",
+				"size": 1,
+				"value": {
+					"text": ""
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 3,
+				"value": {
+					"text": "00"
+				}
+			},
+			{
+				"id": "USLT",
+				"size": 791,
+				"value": {
+					"id": "",
+					"language": "eng",
+					"text": "THAT SPOT RIGHT THERE  (14 second demo clip)\r\n\r\nDo the twist thing ....... in that spot right there.\r\nDo the twist thing ........in that spot right there. \r\nI don't care, long as you do it in that spot there. \r\nFirst in the morning, first at night, \r\nCome on over here darlin', let me hold you tight.\r\nIn that spot right there, in that spot right there. \r\nI wanna hold you, in that spot right there. \r\n\r\nYeah, do the twist thing, do the twist thing on me.\r\nOh mama, do the twist thing now, do the twist just for me. \r\nYou made me love you, in that spot right there. \r\n\r\nDo the quick thing, do the twist right now. \r\nDo the twist Babe, do the twist right now. \r\nCome on babe, in this old house, I want you to do the twist right now. \r\nIn that spot, over here in that spot. Oh Lord, Lord."
+				}
+			},
+			{
+				"id": "IPLS",
+				"size": 2,
+				"value": {
+					"list": []
+				}
+			},
+			{
+				"id": "APIC",
+				"size": 22374,
+				"value": {
+					"mimeType": "image/jpg",
+					"pictureType": 0,
+					"description": ""
+				}
+			},
+			{
+				"id": "PCNT",
+				"size": 4,
+				"value": {
+					"num": 4
+				}
+			},
+			{
+				"id": "POPM",
+				"size": 6,
+				"value": {
+					"count": 0,
+					"rating": 0,
+					"email": ""
+				}
+			},
+			{
+				"id": "TLEN",
+				"size": 6,
+				"value": {
+					"text": "15000"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 6,
+				"value": {
+					"text": "Blues"
+				}
+			},
+			{
+				"id": "COMM",
+				"size": 376,
+				"value": {
+					"id": "",
+					"language": "eng",
+					"text": "THAT SPOT RIGHT THERE (14 second demo clip)\r\n\r\nThis 14 second demo clip was recorded at CD-Quality using the standard MusicMatch Jukebox\r\nsoftware program.  If you like this track, you can click the \"Buy CD\" button in your MusicMatch\r\nJukebox \"Track Info\" window, and you'll be connected to a recommended online music retailer.\r\n\r\n\r\nEnjoy your copy of MusicMatch Jukebox!"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 17,
+				"value": {
+					"text": "Mellow Down Easy"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 11,
+				"value": {
+					"text": "Carey Bell"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 22,
+				"value": {
+					"text": "That Spot Right There"
+				}
+			}
+		]
+	}
+}

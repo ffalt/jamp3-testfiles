@@ -1,0 +1,14 @@
+{
+	"id3v1": {
+		"version": 0,
+		"value": {
+			"title": "Hard Rock",
+			"artist": "",
+			"album": "",
+			"year": "2003",
+			"comment": "",
+			"genreIndex": 79
+		},
+		"desc": "An ID3 tag with genre set to Hard Rock."
+	}
+}

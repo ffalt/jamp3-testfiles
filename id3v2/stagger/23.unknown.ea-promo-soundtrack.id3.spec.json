@@ -1,0 +1,76 @@
+{
+	"id3v2": {
+		"ver": 3,
+		"size": 323052,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TCOP",
+				"size": 24,
+				"value": {
+					"text": "© 2008, Electronic Arts"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 11,
+				"value": {
+					"text": "Soundtrack"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 14,
+				"value": {
+					"text": "Banson's Aria"
+				}
+			},
+			{
+				"id": "TYER",
+				"size": 5,
+				"value": {
+					"text": "2008"
+				}
+			},
+			{
+				"id": "APIC",
+				"size": 320625,
+				"value": {
+					"mimeType": "image/jpeg",
+					"pictureType": 3,
+					"description": ""
+				}
+			},
+			{
+				"id": "GEOB",
+				"size": 25,
+				"value": {
+					"contentDescription": "SfMarkers",
+					"filename": "",
+					"mimeType": ""
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 33,
+				"value": {
+					"text": "Gene M. Rozenberg & Peter Lehman"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 44,
+				"value": {
+					"text": "Henry Hatsworth in the Puzzling Adventure!"
+				}
+			},
+			{
+				"id": "TCMP",
+				"size": 3,
+				"value": {
+					"bool": true
+				}
+			}
+		]
+	}
+}

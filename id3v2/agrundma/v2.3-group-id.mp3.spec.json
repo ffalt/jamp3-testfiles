@@ -1,0 +1,63 @@
+{
+	"id3v2": {
+		"ver": 3,
+		"size": 1170,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TALB",
+				"size": 11,
+				"value": {
+					"text": "Album Name"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 12,
+				"value": {
+					"text": "Artist Name"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 8,
+				"value": {
+					"text": "Ambient"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 13,
+				"groupId": 255,
+				"formatFlags": {
+					"grouping": true
+				},
+				"value": {
+					"text": "Track Title"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 6,
+				"value": {
+					"text": "02/10"
+				}
+			},
+			{
+				"id": "TYER",
+				"size": 5,
+				"value": {
+					"text": "2009"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 33,
+				"value": {
+					"id": "Tagging time",
+					"text": "2009-03-16T17:58:23"
+				}
+			}
+		]
+	}
+}

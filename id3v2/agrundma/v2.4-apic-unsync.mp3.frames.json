@@ -1,0 +1,16 @@
+{
+	"stream": {"index":0,"codec_name":"mp3","codec_long_name":"MP3 (MPEG audio layer 3)","codec_type":"audio","codec_time_base":"1/44100","codec_tag_string":"[0][0][0][0]","codec_tag":"0x0000","sample_fmt":"fltp","sample_rate":"44100","channels":2,"channel_layout":"stereo","bits_per_sample":0,"r_frame_rate":"0/0","avg_frame_rate":"0/0","time_base":"1/14112000","start_pts":353600,"start_time":"0.025057","duration_ts":4720066560,"duration":"334.471837","bit_rate":"250962","nb_read_frames":"10","disposition":{"default":0,"dub":0,"original":0,"comment":0,"lyrics":0,"karaoke":0,"forced":0,"hearing_impaired":0,"visual_impaired":0,"clean_effects":0,"attached_pic":0,"timed_thumbnails":0},"tags":{"encoder":"LAME3.97 "},"side_data_list":[{"side_data_type":"Replay Gain"}]},
+	"cols": ["offset","size","time","samples","channels"],
+	"frames": [
+		[49626,104,1.066,47,2],
+		[49730,104,26.122,1152,2],
+		[49834,104,26.122,1152,2],
+		[49938,104,26.122,1152,2],
+		[50042,104,26.122,1152,2],
+		[50146,104,26.122,1152,2],
+		[50250,104,26.122,1152,2],
+		[50354,104,26.122,1152,2],
+		[50458,104,26.122,1152,2],
+		[50562,53,26.122,1152,2]
+	]
+}

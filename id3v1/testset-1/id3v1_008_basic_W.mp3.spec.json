@@ -1,0 +1,15 @@
+{
+	"id3v1": {
+		"version": 1,
+		"value": {
+			"title": "12345",
+			"artist": "12345",
+			"album": "12345",
+			"year": "2003",
+			"comment": "12345",
+			"track": 1,
+			"genreIndex": 0
+		},
+		"desc": "An ID3v1 tag with junk after string terminator. The junk should not show up for the user, (i.e. only the string 12345 should show up). "
+	}
+}

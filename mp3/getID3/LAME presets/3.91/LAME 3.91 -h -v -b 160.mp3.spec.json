@@ -1,0 +1,79 @@
+{
+	"id3v1": {
+		"version": 1,
+		"value": {
+			"artist": "Animaniacs",
+			"album": "Steven Speilberg Presents An..",
+			"year": "1993",
+			"comment": "",
+			"title": "The Planets",
+			"track": 11,
+			"genreIndex": 20
+		}
+	},
+	"id3v2": {
+		"ver": 3,
+		"size": 4296,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TIT2",
+				"size": 12,
+				"value": {
+					"text": "The Planets"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 11,
+				"value": {
+					"text": "Animaniacs"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 37,
+				"value": {
+					"text": "Steven Speilberg Presents Animaniacs"
+				}
+			},
+			{
+				"id": "TYER",
+				"size": 5,
+				"value": {
+					"text": "1993"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 6,
+				"value": {
+					"text": "11/17"
+				}
+			},
+			{
+				"id": "COMM",
+				"size": 5,
+				"value": {
+					"id": "",
+					"language": "eng",
+					"text": ""
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 12,
+				"value": {
+					"text": "Alternative"
+				}
+			},
+			{
+				"id": "TENC",
+				"size": 32,
+				"value": {
+					"text": "Exact Audio Copy   (Burst mode)"
+				}
+			}
+		]
+	}
+}

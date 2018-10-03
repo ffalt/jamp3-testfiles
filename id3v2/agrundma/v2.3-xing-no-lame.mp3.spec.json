@@ -1,0 +1,72 @@
+{
+	"id3v2": {
+		"ver": 3,
+		"size": 901,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TALB",
+				"size": 39,
+				"value": {
+					"text": "Singles Collection"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 39,
+				"value": {
+					"text": "The Rolling Stones"
+				}
+			},
+			{
+				"id": "TPE2",
+				"size": 39,
+				"value": {
+					"text": "The Rolling Stones"
+				}
+			},
+			{
+				"id": "TBPM",
+				"size": 7,
+				"value": {
+					"text": "113.79"
+				}
+			},
+			{
+				"id": "TPOS",
+				"size": 2,
+				"value": {
+					"text": "3"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 11,
+				"value": {
+					"text": "Rock"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 47,
+				"value": {
+					"text": "Sympathy For The Devil"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 3,
+				"value": {
+					"text": "13"
+				}
+			},
+			{
+				"id": "TYER",
+				"size": 5,
+				"value": {
+					"text": "1989"
+				}
+			}
+		]
+	}
+}

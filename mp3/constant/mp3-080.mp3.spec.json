@@ -1,0 +1,30 @@
+{
+	"id3v2": {
+		"ver": 3,
+		"size": 4086,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TIT2",
+				"size": 12,
+				"value": {
+					"text": "80mp3 audio"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 20,
+				"value": {
+					"text": "nigelcoldwell.co.uk"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 20,
+				"value": {
+					"text": "nigelcoldwell.co.uk"
+				}
+			}
+		]
+	}
+}

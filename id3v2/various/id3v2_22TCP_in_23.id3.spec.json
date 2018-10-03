@@ -1,0 +1,91 @@
+{
+	"id3v2": {
+		"ver": 3,
+		"size": 2238,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TIT2",
+				"size": 10,
+				"value": {
+					"text": "Atonement"
+				}
+			},
+			{
+				"id": "TENC",
+				"size": 17,
+				"value": {
+					"text": "iTunes v7.0.2.16"
+				}
+			},
+			{
+				"id": "TYER",
+				"size": 5,
+				"value": {
+					"text": "2007"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 11,
+				"value": {
+					"text": "Indie Rock"
+				}
+			},
+			{
+				"id": "RVAD",
+				"size": 10,
+				"value": {
+					"right": 65535,
+					"left": 65535,
+					"peakRight": 0,
+					"peakLeft": 0
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 3,
+				"value": {
+					"text": "10"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 28,
+				"value": {
+					"text": "Another Weekend In The City"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 11,
+				"value": {
+					"text": "Bloc Party"
+				}
+			},
+			{
+				"id": "TCP",
+				"size": 3,
+				"value": {
+					"bool": true
+				}
+			},
+			{
+				"id": "TKEY",
+				"size": 11,
+				"value": {
+					"text": "G m"
+				}
+			},
+			{
+				"id": "POPM",
+				"size": 7,
+				"value": {
+					"email": "\u0001ÿþ3",
+					"count": 0,
+					"rating": 0
+				}
+			}
+		]
+	}
+}

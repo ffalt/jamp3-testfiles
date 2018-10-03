@@ -1,0 +1,108 @@
+{
+	"id3v1": {
+		"version": 1,
+		"value": {
+			"title": "Track 11",
+			"artist": "Artist",
+			"album": "Album",
+			"year": "@\u0004",
+			"comment": "Ripped by Winamp",
+			"track": 11,
+			"genreIndex": 255
+		}
+	},
+	"id3v2": {
+		"ver": 3,
+		"size": 1460,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TENC",
+				"size": 1,
+				"value": {
+					"text": ""
+				}
+			},
+			{
+				"id": "WXXX",
+				"size": 2,
+				"value": {
+					"id": "",
+					"text": ""
+				}
+			},
+			{
+				"id": "TCOP",
+				"size": 1,
+				"value": {
+					"text": ""
+				}
+			},
+			{
+				"id": "TOPE",
+				"size": 1,
+				"value": {
+					"text": ""
+				}
+			},
+			{
+				"id": "TCOM",
+				"size": 1,
+				"value": {
+					"text": ""
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 4,
+				"value": {
+					"text": "Ä\u0012"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 3,
+				"value": {
+					"text": "11"
+				}
+			},
+			{
+				"id": "COMM",
+				"size": 21,
+				"value": {
+					"id": "",
+					"language": "eng",
+					"text": "Ripped by Winamp"
+				}
+			},
+			{
+				"id": "TYER",
+				"size": 3,
+				"value": {
+					"text": "@\u0004"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 6,
+				"value": {
+					"text": "Album"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 7,
+				"value": {
+					"text": "Artist"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 9,
+				"value": {
+					"text": "Track 11"
+				}
+			}
+		]
+	}
+}

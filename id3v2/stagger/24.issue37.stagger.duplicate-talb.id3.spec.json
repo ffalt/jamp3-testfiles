@@ -1,0 +1,30 @@
+{
+  "id3v2": {
+    "ver": 4,
+    "size": 169,
+    "subversion": 0,
+    "frames": [
+      {
+        "id": "TIT2",
+        "size": 8,
+        "value": {
+          "text": "Foobar"
+        }
+      },
+      {
+        "id": "TALB",
+        "size": 6,
+        "value": {
+          "text": "quux"
+        }
+      },
+      {
+        "id": "TALB",
+        "size": 5,
+        "value": {
+          "text": "Foo"
+        }
+      }
+    ]
+  }
+}

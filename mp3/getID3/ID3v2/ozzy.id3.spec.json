@@ -1,0 +1,121 @@
+{
+  "id3v2": {
+    "ver": 3,
+    "size": 3201,
+    "subversion": 0,
+    "frames": [
+      {
+        "id": "COMM",
+        "size": 25,
+        "value": {
+          "id": "MusicMatch_Tempo",
+          "language": "en",
+          "text": "None"
+        }
+      },
+      {
+        "id": "COMM",
+        "size": 24,
+        "value": {
+          "id": "MusicMatch_Mood",
+          "language": "en",
+          "text": "None"
+        }
+      },
+      {
+        "id": "COMM",
+        "size": 29,
+        "value": {
+          "id": "MusicMatch_Situation",
+          "language": "en",
+          "text": "None"
+        }
+      },
+      {
+        "id": "COMM",
+        "size": 30,
+        "value": {
+          "id": "MusicMatch_Preference",
+          "language": "enÌ",
+          "text": "None"
+        }
+      },
+      {
+        "id": "WOAR",
+        "size": 20,
+        "value": {
+          "text": "http://www.ozzy.net/"
+        }
+      },
+      {
+        "id": "APIC",
+        "size": 2860,
+        "formatFlags": {
+          "compressed": true
+        },
+        "binSize": 2982,
+        "value": {
+          "mimeType": "image/jpg",
+          "pictureType": 0,
+          "description": ""
+        }
+      },
+      {
+        "id": "TYER",
+        "size": 5,
+        "value": {
+          "text": "1983"
+        }
+      },
+      {
+        "id": "TMED",
+        "size": 4,
+        "value": {
+          "text": "DIG"
+        }
+      },
+      {
+        "id": "TCON",
+        "size": 6,
+        "value": {
+          "text": "Metal"
+        }
+      },
+      {
+        "id": "TLEN",
+        "size": 7,
+        "value": {
+          "text": "257358"
+        }
+      },
+      {
+        "id": "TRCK",
+        "size": 3,
+        "value": {
+          "text": "01"
+        }
+      },
+      {
+        "id": "TALB",
+        "size": 17,
+        "value": {
+          "text": "Bark At The Moon"
+        }
+      },
+      {
+        "id": "TPE1",
+        "size": 14,
+        "value": {
+          "text": "Ozzy Osbourne"
+        }
+      },
+      {
+        "id": "TIT2",
+        "size": 17,
+        "value": {
+          "text": "Bark At The Moon"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+	"id3v2": {
+		"ver": 3,
+		"size": 12147,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TPE1",
+				"size": 13,
+				"value": {
+					"text": "Abba"
+				}
+			},
+			{
+				"id": "TYER",
+				"size": 13,
+				"value": {
+					"text": "1973"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 23,
+				"value": {
+					"text": "Ring Ring"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 37,
+				"value": {
+					"text": "Rock & Roll Band"
+				}
+			},
+			{
+				"id": "APIC",
+				"size": 10390,
+				"value": {
+					"mimeType": "image/jpg",
+					"pictureType": 0,
+					"description": ""
+				}
+			}
+		]
+	}
+}

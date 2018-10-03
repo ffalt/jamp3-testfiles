@@ -1,0 +1,14 @@
+{
+	"id3v1": {
+		"version": 0,
+		"value": {
+			"title": "",
+			"artist": "",
+			"album": "",
+			"year": "2003",
+			"comment": "http://www.id3.org/",
+			"genreIndex": 0
+		},
+		"desc": "Comment field with http://-style URL."
+	}
+}

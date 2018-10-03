@@ -1,0 +1,681 @@
+{
+  "id3v1": {
+    "version": 1,
+    "value": {
+      "title": "Test Name",
+      "artist": "Test Artist",
+      "album": "Test Album",
+      "year": "2008",
+      "comment": "Test Comments",
+      "track": 7,
+      "genreIndex": 32
+    }
+  },
+  "id3v2": {
+    "ver": 4,
+    "size": 46389,
+    "subversion": 0,
+    "frames": [
+      {
+        "id": "TALB",
+        "size": 11,
+        "value": {
+          "text": "Test Album"
+        }
+      },
+      {
+        "id": "TPE1",
+        "size": 12,
+        "value": {
+          "text": "Test Artist"
+        }
+      },
+      {
+        "id": "TPE2",
+        "size": 18,
+        "value": {
+          "text": "Test Album Artist"
+        }
+      },
+      {
+        "id": "TBPM",
+        "size": 3,
+        "value": {
+          "text": "96"
+        }
+      },
+      {
+        "id": "COMM",
+        "size": 18,
+        "value": {
+          "id": "",
+          "language": "eng",
+          "text": "Test Comments"
+        }
+      },
+      {
+        "id": "COMM",
+        "size": 20,
+        "value": {
+          "id": "2",
+          "language": "eng",
+          "text": "Test Comment 2"
+        }
+      },
+      {
+        "id": "COMM",
+        "size": 28,
+        "value": {
+          "id": "Catalog Number",
+          "language": "eng",
+          "text": "123456789"
+        }
+      },
+      {
+        "id": "COMM",
+        "size": 68,
+        "value": {
+          "id": "Media Jukebox: Encoder",
+          "language": "eng",
+          "text": "LAME 3.98.4 -V5 (Dbpoweramp Release 13.4)"
+        }
+      },
+      {
+        "id": "COMM",
+        "size": 51,
+        "value": {
+          "id": "Media Jukebox: Tool Name",
+          "language": "eng",
+          "text": "J. River Media Jukebox"
+        }
+      },
+      {
+        "id": "COMM",
+        "size": 39,
+        "value": {
+          "id": "Media Jukebox: Tool Version",
+          "language": "eng",
+          "text": "12.0.30"
+        }
+      },
+      {
+        "id": "COMM",
+        "size": 41,
+        "value": {
+          "id": "MusicMatch_Preference",
+          "language": "eng",
+          "text": "Test Preference"
+        }
+      },
+      {
+        "id": "COMM",
+        "size": 39,
+        "value": {
+          "id": "MusicMatch_Situation",
+          "language": "eng",
+          "text": "Test Situation"
+        }
+      },
+      {
+        "id": "COMM",
+        "size": 31,
+        "value": {
+          "id": "MusicMatch_Tempo",
+          "language": "eng",
+          "text": "Test Tempo"
+        }
+      },
+      {
+        "id": "COMM",
+        "size": 38,
+        "value": {
+          "id": "Songs-DB_Preference",
+          "language": "eng",
+          "text": "Very good copy"
+        }
+      },
+      {
+        "id": "TCOM",
+        "size": 14,
+        "value": {
+          "text": "Test Composer"
+        }
+      },
+      {
+        "id": "TPE3",
+        "size": 15,
+        "value": {
+          "text": "Test Conductor"
+        }
+      },
+      {
+        "id": "TIT1",
+        "size": 14,
+        "value": {
+          "text": "Test Grouping"
+        }
+      },
+      {
+        "id": "TCOP",
+        "size": 15,
+        "value": {
+          "text": "Test Copyright"
+        }
+      },
+      {
+        "id": "TPOS",
+        "size": 4,
+        "value": {
+          "text": "3/4"
+        }
+      },
+      {
+        "id": "TENC",
+        "size": 24,
+        "value": {
+          "text": "Dbpoweramp Release 13.4"
+        }
+      },
+      {
+        "id": "TSSE",
+        "size": 16,
+        "value": {
+          "text": "Lame 3.98.4 -V5"
+        }
+      },
+      {
+        "id": "TSST",
+        "size": 20,
+        "value": {
+          "text": "Test Album Subtitle"
+        }
+      },
+      {
+        "id": "TOWN",
+        "size": 16,
+        "value": {
+          "text": "Test File Owner"
+        }
+      },
+      {
+        "id": "TCON",
+        "size": 10,
+        "value": {
+          "text": "Classical"
+        }
+      },
+      {
+        "id": "TIPL",
+        "size": 47,
+        "value": {
+          "list": [
+            "Ankka",
+            "Tupu",
+            "Ankka",
+            "Hupu",
+            "Sorsa",
+            "Repe",
+            "Hanhi",
+            "Hannu"
+          ]
+        }
+      },
+      {
+        "id": "TCMP",
+        "size": 3,
+        "value": {
+          "bool": true
+        }
+      },
+      {
+        "id": "TSRC",
+        "size": 8,
+        "value": {
+          "text": "Isrc000"
+        }
+      },
+      {
+        "id": "TLAN",
+        "size": 8,
+        "value": {
+          "text": "Finnish"
+        }
+      },
+      {
+        "id": "TEXT",
+        "size": 14,
+        "value": {
+          "text": "Test Lyricist"
+        }
+      },
+      {
+        "id": "TMED",
+        "size": 34,
+        "value": {
+          "text": "CD (Analogue Transfer From Media)"
+        }
+      },
+      {
+        "id": "TPE4",
+        "size": 11,
+        "value": {
+          "text": "Test Remix"
+        }
+      },
+      {
+        "id": "TMOO",
+        "size": 10,
+        "value": {
+          "text": "Hilarious"
+        }
+      },
+      {
+        "id": "TMCL",
+        "size": 49,
+        "value": {
+          "list": [
+            "Pasuuna",
+            "Paavo Pasunusti",
+            "Peltirumpu",
+            "Otto Von Bang"
+          ]
+        }
+      },
+      {
+        "id": "TOAL",
+        "size": 17,
+        "value": {
+          "text": "Test Orig. Title"
+        }
+      },
+      {
+        "id": "TOPE",
+        "size": 18,
+        "value": {
+          "text": "Test Orig. Artist"
+        }
+      },
+      {
+        "id": "TOFN",
+        "size": 20,
+        "value": {
+          "text": "Test Orig. Filename"
+        }
+      },
+      {
+        "id": "TOLY",
+        "size": 20,
+        "value": {
+          "text": "Test Orig. Lyricist"
+        }
+      },
+      {
+        "id": "TDOR",
+        "size": 11,
+        "value": {
+          "text": "1979-11-24"
+        }
+      },
+      {
+        "id": "POPM",
+        "size": 22,
+        "value": {
+          "count": 0,
+          "email": "Helium Music Manager",
+          "rating": 153
+        }
+      },
+      {
+        "id": "TPUB",
+        "size": 15,
+        "value": {
+          "text": "Test Publisher"
+        }
+      },
+      {
+        "id": "TDRL",
+        "size": 11,
+        "value": {
+          "text": "2010-01-30"
+        }
+      },
+      {
+        "id": "TIT3",
+        "size": 14,
+        "value": {
+          "text": "Test Subtitle"
+        }
+      },
+      {
+        "id": "TIT2",
+        "size": 10,
+        "value": {
+          "text": "Test Name"
+        }
+      },
+      {
+        "id": "TRCK",
+        "size": 5,
+        "value": {
+          "text": "7/16"
+        }
+      },
+      {
+        "id": "USLT",
+        "size": 170,
+        "value": {
+          "id": "Unsynchronized Lyrics",
+          "language": "ENG",
+          "text": "Test Lyrics Line 1\r\n\r\nTest Lyrics Line 2\r\nTest Lyrics Line 3\r\n\r\nTest Lyrics Line 4\r\nTest Lyrics Line 5\r\nTest Lyrics Line 6\r\n\r\nTest Lyrics Line 7"
+        }
+      },
+      {
+        "id": "TDRC",
+        "size": 11,
+        "value": {
+          "text": "2008-12-29"
+        }
+      },
+      {
+        "id": "WOAR",
+        "size": 26,
+        "value": {
+          "text": "http://www.test.url/artist"
+        }
+      },
+      {
+        "id": "WOAF",
+        "size": 30,
+        "value": {
+          "text": "http://www.test.url/audio_file"
+        }
+      },
+      {
+        "id": "WCOM",
+        "size": 26,
+        "value": {
+          "text": "http://www.test.url/buy_cd"
+        }
+      },
+      {
+        "id": "WPUB",
+        "size": 29,
+        "value": {
+          "text": "http://www.test.url/publisher"
+        }
+      },
+      {
+        "id": "WORS",
+        "size": 25,
+        "value": {
+          "text": "http://www.test.url/radio"
+        }
+      },
+      {
+        "id": "TSOA",
+        "size": 22,
+        "value": {
+          "text": "Test Album Sort Order"
+        }
+      },
+      {
+        "id": "TSOP",
+        "size": 23,
+        "value": {
+          "text": "Test Artist Sort Order"
+        }
+      },
+      {
+        "id": "TSOT",
+        "size": 22,
+        "value": {
+          "text": "Test Title Sort Order"
+        }
+      },
+      {
+        "id": "TSO2",
+        "size": 25,
+        "value": {
+          "text": "Test Alb.Art. Sort Order"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 57,
+        "value": {
+          "id": "#Helium Album Artist Sort Order",
+          "text": "Test Alb.Art. Sort Order"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 29,
+        "value": {
+          "id": "#Helium Comment",
+          "text": "Test Comment"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 37,
+        "value": {
+          "id": "#Helium Custom Field 1",
+          "text": "Test Custom 1"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 37,
+        "value": {
+          "id": "#Helium Custom Field 2",
+          "text": "Test Custom 2"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 37,
+        "value": {
+          "id": "#Helium Custom Field 3",
+          "text": "Test Custom 3"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 37,
+        "value": {
+          "id": "#Helium Custom Field 4",
+          "text": "Test Custom 4"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 37,
+        "value": {
+          "id": "#Helium Custom Field 5",
+          "text": "Test Custom 5"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 19,
+        "value": {
+          "id": "#Helium Obscure",
+          "text": "76"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 39,
+        "value": {
+          "id": "#Helium2 AlbumArtist",
+          "text": "Test Album Artist"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 42,
+        "value": {
+          "id": "#Helium2 PartOfSeries",
+          "text": "Test Part Of Series"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 23,
+        "value": {
+          "id": "#Helium2 ReleaseType",
+          "text": "8"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 33,
+        "value": {
+          "id": "ALBUM ARTIST",
+          "text": "Test Album Artist 2"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 99,
+        "value": {
+          "id": "iTunNORM",
+          "text": "00000025 00000038 00000257 0000030A 00000A28 00000A11 00001886 00001A22 00000A11 00000A28"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 125,
+        "value": {
+          "id": "iTunSMPB",
+          "text": "00000000 00000840 00000118 000000000006BAA8 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 36,
+        "value": {
+          "id": "No-Clip Adjusted",
+          "text": "album gain -1.5 dB"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 20,
+        "value": {
+          "id": "PEAK LEVEL",
+          "text": "0.204978"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 19,
+        "value": {
+          "id": "PERFORMER",
+          "text": "Somebody"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 17,
+        "value": {
+          "id": "REPLAY GAIN",
+          "text": "3.06"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 31,
+        "value": {
+          "id": "replaygain_album_gain",
+          "text": "+2.14 dB"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 31,
+        "value": {
+          "id": "replaygain_album_peak",
+          "text": "0.786158"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 31,
+        "value": {
+          "id": "replaygain_track_gain",
+          "text": "+9.06 dB"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 31,
+        "value": {
+          "id": "replaygain_track_peak",
+          "text": "0.204978"
+        }
+      },
+      {
+        "id": "APIC",
+        "size": 4811,
+        "formatFlags": {
+          "unsynchronised": true,
+          "data_length_indicator": true
+        },
+        "value": {
+          "mimeType": "image/jpg",
+          "pictureType": 3,
+          "description": "Test Artist - Test Name"
+        }
+      },
+      {
+        "id": "APIC",
+        "size": 16060,
+        "formatFlags": {
+          "unsynchronised": true,
+          "data_length_indicator": true
+        },
+        "value": {
+          "mimeType": "image/jpg",
+          "pictureType": 4,
+          "description": "Solarized"
+        }
+      },
+      {
+        "id": "APIC",
+        "size": 20529,
+        "formatFlags": {
+          "unsynchronised": true,
+          "data_length_indicator": true
+        },
+        "value": {
+          "mimeType": "image/jpg",
+          "pictureType": 6,
+          "description": "Solarized Twice"
+        }
+      },
+      {
+        "id": "TSTU",
+        "size": 30,
+        "formatFlags": {
+          "data_length_indicator": true,
+          "unsynchronised": true
+        },
+        "value": {
+          "text": "Test Studio"
+        }
+      },
+      {
+        "id": "TPRO",
+        "size": 34,
+        "formatFlags": {
+          "data_length_indicator": true,
+          "unsynchronised": true
+        },
+        "value": {
+          "text": "Test Produced"
+        }
+      }
+    ]
+  }
+}

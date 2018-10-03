@@ -1,0 +1,109 @@
+{
+	"id3v2": {
+		"ver": 4,
+		"frames": [
+			{
+				"id": "TIT2",
+				"size": 9,
+				"value": {
+					"text": "Waiting"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 14,
+				"value": {
+					"text": "Stephen Lynch"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 10,
+				"value": {
+					"text": "3 Baloons"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 6,
+				"value": {
+					"text": "1/14"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 5,
+				"value": {
+					"text": "(57)"
+				}
+			},
+			{
+				"id": "COMM",
+				"size": 16,
+				"value": {
+					"id": "iTunPGAP",
+					"language": "eng",
+					"text": "0"
+				}
+			},
+			{
+				"id": "TENC",
+				"size": 14,
+				"value": {
+					"text": "iTunes 8.0.2"
+				}
+			},
+			{
+				"id": "COMM",
+				"size": 104,
+				"value": {
+					"id": "iTunNORM",
+					"language": "eng",
+					"text": " 00000900 0000094E 00006327 00006666 0002B6CB 0002918D 0000828E 00008108 0002C1B6 000303A1"
+				}
+			},
+			{
+				"id": "COMM",
+				"size": 130,
+				"value": {
+					"id": "iTunSMPB",
+					"language": "eng",
+					"text": " 00000000 00000210 00000954 0000000000A02E1C 00000000 00571EDC 00000000 00000000 00000000 00000000 00000000 00000000"
+				}
+			},
+			{
+				"id": "COMM",
+				"size": 65,
+				"value": {
+					"id": "iTunes_CDDB_IDs",
+					"language": "eng",
+					"text": "14+85FF335286EBA800BA3609333A50DB22+12478605"
+				}
+			},
+			{
+				"id": "UFID",
+				"size": 93,
+				"value": {
+					"id": "http://www.cddb.com/id3/taginfo1.html",
+					"text": "3CD3N36Q176189254V389B36656A723A5CF267C2EB44D1046F53P0"
+				}
+			},
+			{
+				"id": "APIC",
+				"size": 29628,
+				"value": {
+					"mimeType": "image/jpeg",
+					"pictureType": 3,
+					"description": ""
+				}
+			},
+			{
+				"id": "TPE2",
+				"size": 14,
+				"value": {
+					"text": "Stephen Lynch"
+				}
+			}
+		]
+	}
+}

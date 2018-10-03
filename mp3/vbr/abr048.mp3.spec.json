@@ -1,0 +1,55 @@
+{
+	"id3v1": {
+		"version": 0,
+		"value": {
+			"artist": "nigelcoldwell.co.uk/audio",
+			"album": "audio comparison test",
+			"year": "09",
+			"comment": "",
+			"title": "VBR mp3 @ abr048",
+			"genreIndex": 255
+		}
+	},
+	"id3v2": {
+		"ver": 3,
+		"size": 4086,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TIT2",
+				"size": 17,
+				"value": {
+					"text": "VBR mp3 @ abr048"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 26,
+				"value": {
+					"text": "nigelcoldwell.co.uk/audio"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 22,
+				"value": {
+					"text": "audio comparison test"
+				}
+			},
+			{
+				"id": "TYER",
+				"size": 3,
+				"value": {
+					"text": "09"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 2,
+				"value": {
+					"text": "0"
+				}
+			}
+		]
+	}
+}

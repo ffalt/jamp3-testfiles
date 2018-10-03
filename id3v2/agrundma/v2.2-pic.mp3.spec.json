@@ -1,0 +1,99 @@
+{
+	"id3v2": {
+		"ver": 2,
+		"size": 61354,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TT2",
+				"size": 29,
+				"value": {
+					"text": "You Shook Me All Night Long"
+				}
+			},
+			{
+				"id": "TP1",
+				"size": 7,
+				"value": {
+					"text": "AC/DC"
+				}
+			},
+			{
+				"id": "TCM",
+				"size": 13,
+				"value": {
+					"text": "Angus Young"
+				}
+			},
+			{
+				"id": "TAL",
+				"size": 15,
+				"value": {
+					"text": "Back In Black"
+				}
+			},
+			{
+				"id": "TRK",
+				"size": 6,
+				"value": {
+					"text": "7/10"
+				}
+			},
+			{
+				"id": "TPA",
+				"size": 5,
+				"value": {
+					"text": "1/1"
+				}
+			},
+			{
+				"id": "TYE",
+				"size": 6,
+				"value": {
+					"text": "1980"
+				}
+			},
+			{
+				"id": "TCO",
+				"size": 6,
+				"value": {
+					"text": "(17)"
+				}
+			},
+			{
+				"id": "TEN",
+				"size": 15,
+				"value": {
+					"text": "iTunes v4.7.1"
+				}
+			},
+			{
+				"id": "COM",
+				"size": 104,
+				"value": {
+					"id": "iTunNORM",
+					"language": "eng",
+					"text": " 000008E8 00000959 00004368 00003DD7 0001BB92 0001BB92 00007213 00007213 0001C3F0 00005B6D"
+				}
+			},
+			{
+				"id": "COM",
+				"size": 63,
+				"value": {
+					"id": "iTunes_CDDB_IDs",
+					"language": "eng",
+					"text": "10+E5228F5D3CC6407BC76EDA3E78C7540A+902543"
+				}
+			},
+			{
+				"id": "PIC",
+				"size": 61013,
+				"value": {
+					"mimeType": "PNG",
+					"pictureType": 0,
+					"description": ""
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,51 @@
+{
+	"id3v2": {
+		"ver": 4,
+		"size": 2038,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TRCK",
+				"size": 3,
+				"value": {
+					"text": "06"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 2,
+				"value": {
+					"text": "8"
+				}
+			},
+			{
+				"id": "TENC",
+				"size": 16,
+				"value": {
+					"text": "RioPort MP3 2.0"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 20,
+				"value": {
+					"text": "The Infinite Desire"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 12,
+				"value": {
+					"text": "Al Di Meola"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 26,
+				"value": {
+					"text": "Invention Of The Monsters"
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,74 @@
+{
+  "id3v1": {
+    "version": 0,
+    "value": {
+      "title": "",
+      "artist": "",
+      "album": "",
+      "year": "",
+      "comment": " 00000000 00000000 00000000 ",
+      "genreIndex": 13
+    }
+  },
+  "id3v2": {
+    "ver": 4,
+    "frames": [
+      {
+        "id": "COMM",
+        "size": 14,
+        "value": {
+          "id": "",
+          "language": "XXX",
+          "text": "A COMMENT"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 49,
+        "value": {
+          "id": "userTextDescription1",
+          "text": "userTextData1"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 60,
+        "value": {
+          "id": "QuodLibet::userTextDescription2",
+          "text": "userTextData1"
+        }
+      },
+      {
+        "id": "TCON",
+        "size": 3,
+        "value": {
+          "text": "13"
+        }
+      },
+      {
+        "id": "WXXX",
+        "size": 26,
+        "value": {
+          "id": "userUrl",
+          "text": "http://a.user.url"
+        }
+      },
+      {
+        "id": "WXXX",
+        "size": 42,
+        "value": {
+          "id": "",
+          "text": "http://a.user.url/with/empty/description"
+        }
+      },
+      {
+        "id": "UFID",
+        "size": 25,
+        "value": {
+          "id": "supermihi@web.de",
+          "text": "12345678"
+        }
+      }
+    ]
+  }
+}

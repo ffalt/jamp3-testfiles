@@ -1,0 +1,98 @@
+{
+	"id3v2": {
+		"ver": 3,
+		"size": 27334,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TIT2",
+				"size": 32,
+				"value": {
+					"text": "ITC.TN-GrantMcCraken-2010.02.25"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 15,
+				"value": {
+					"text": "Dr. Moira Gunn"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 12,
+				"value": {
+					"text": "Tech Nation"
+				}
+			},
+			{
+				"id": "TCOP",
+				"size": 31,
+				"value": {
+					"text": "2008 The Conversations Network"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 8,
+				"value": {
+					"text": "Podcast"
+				}
+			},
+			{
+				"id": "TYER",
+				"size": 5,
+				"value": {
+					"text": "0000"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 5,
+				"value": {
+					"text": "4421"
+				}
+			},
+			{
+				"id": "ETCO",
+				"size": 6,
+				"value": {
+					"format": 2,
+					"events": [
+						{
+							"timestamp": 152110,
+							"type": 3
+						}
+					]
+				}
+			},
+			{
+				"id": "COMM",
+				"size": 274,
+				"value": {
+					"id": "",
+					"language": "XXX",
+					"text": "Dr. Moira Gunn analyzes the changing face of corporate culture with Grant McCraken, author of Chief Culture Officer, where he combines a mastery of marketing, culture, anthropology, and modern business practice. http://itc.conversationsnetwork.org/shows/detail4421.html"
+				}
+			},
+			{
+				"id": "USLT",
+				"size": 274,
+				"value": {
+					"id": "",
+					"language": "XXX",
+					"text": "Dr. Moira Gunn analyzes the changing face of corporate culture with Grant McCraken, author of Chief Culture Officer, where he combines a mastery of marketing, culture, anthropology, and modern business practice. http://itc.conversationsnetwork.org/shows/detail4421.html"
+				}
+			},
+			{
+				"id": "APIC",
+				"size": 26562,
+				"value": {
+					"mimeType": "image/jpeg",
+					"pictureType": 0,
+					"description": ""
+				}
+			}
+		]
+	}
+}

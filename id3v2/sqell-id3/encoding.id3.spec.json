@@ -1,0 +1,49 @@
+{
+  "id3v2": {
+    "ver": 3,
+    "size": 371,
+    "subversion": 0,
+    "frames": [
+      {
+        "id": "TXXX",
+        "size": 35,
+        "value": {
+          "id": "latin1",
+          "text": "a latin1 string with £ sign"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 33,
+        "value": {
+          "id": "utf8",
+          "text": "a utf8 string with € sign"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 73,
+        "value": {
+          "id": "utf16be",
+          "text": "a utf16be string with € sign"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 87,
+        "value": {
+          "id": "utf16",
+          "text": "a utf16 string with € sign (le bom)"
+        }
+      },
+      {
+        "id": "TXXX",
+        "size": 93,
+        "value": {
+          "id": "utf16bom",
+          "text": "a utf16 string with € sign (be bom)"
+        }
+      }
+    ]
+  }
+}

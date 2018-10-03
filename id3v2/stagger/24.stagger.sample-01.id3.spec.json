@@ -1,0 +1,44 @@
+{
+  "id3v2": {
+    "ver": 4,
+    "size": 80,
+    "subversion": 0,
+    "frames": [
+      {
+        "id": "TRCK",
+        "size": 6,
+        "value": {
+          "text": "trck"
+        }
+      },
+      {
+        "id": "TPE2",
+        "size": 6,
+        "value": {
+          "text": "tpe2"
+        }
+      },
+      {
+        "id": "TALB",
+        "size": 6,
+        "value": {
+          "text": "talb"
+        }
+      },
+      {
+        "id": "TIT2",
+        "size": 6,
+        "value": {
+          "text": "tit2"
+        }
+      },
+      {
+        "id": "TPE1",
+        "size": 6,
+        "value": {
+          "text": "tpe1"
+        }
+      }
+    ]
+  }
+}

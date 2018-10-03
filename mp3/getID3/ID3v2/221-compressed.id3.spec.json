@@ -1,0 +1,15 @@
+{
+	"id3v2": {
+		"ver": 2,
+		"size": 156,
+		"subversion": 1,
+		"frames": [
+			{
+				"id": "CDM",
+				"size": 150,
+				"value": {
+				}
+			}
+		]
+	}
+}

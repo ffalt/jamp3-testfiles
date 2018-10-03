@@ -1,0 +1,52 @@
+{
+	"id3v2": {
+		"ver": 3,
+		"size": 1170,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TPE1",
+				"size": 35,
+				"value": {
+					"text": "Ester Koèièková a Lubomír Nohavica"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 46,
+				"value": {
+					"text": "Ester Koèièková a Lubomír Nohavica s klavírem"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 13,
+				"value": {
+					"text": "Tøem sestrám"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 6,
+				"value": {
+					"text": "02/10"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 12,
+				"value": {
+					"text": "(26)Ambient"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 33,
+				"value": {
+					"id": "Tagging time",
+					"text": "2009-03-17T16:36:04"
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,202 @@
+{
+	"id3v2": {
+		"ver": 4,
+		"size": 12704,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "COMM",
+				"size": 16,
+				"value": {
+					"id": "iTunPGAP",
+					"language": "eng",
+					"text": "0"
+				}
+			},
+			{
+				"id": "TENC",
+				"size": 12,
+				"value": {
+					"text": "iTunes 8.1"
+				}
+			},
+			{
+				"id": "COMM",
+				"size": 104,
+				"value": {
+					"id": "iTunNORM",
+					"language": "eng",
+					"text": " 000011B5 00000000 000015C6 00000000 00000034 00000000 000033F4 00000000 00000000 00000000"
+				}
+			},
+			{
+				"id": "COMM",
+				"size": 130,
+				"value": {
+					"id": "iTunSMPB",
+					"language": "eng",
+					"text": " 00000000 00000210 000005C4 0000000000002BEC 00000000 00000E3B 00000000 00000000 00000000 00000000 00000000 00000000"
+				}
+			},
+			{
+				"id": "USLT",
+				"size": 43,
+				"value": {
+					"id": "",
+					"language": "eng",
+					"text": "This is the lyrics field from iTunes."
+				}
+			},
+			{
+				"id": "APIC",
+				"size": 2117,
+				"value": {
+					"mimeType": "image/jpeg",
+					"pictureType": 0,
+					"description": ""
+				}
+			},
+			{
+				"id": "TCMP",
+				"size": 3,
+				"value": {
+					"bool": true
+				}
+			},
+			{
+				"id": "TST",
+				"size": 18,
+				"value": {
+					"text": "Track Title Sort"
+				}
+			},
+			{
+				"id": "TSA",
+				"size": 12,
+				"value": {
+					"text": "Album Sort"
+				}
+			},
+			{
+				"id": "TSP",
+				"size": 18,
+				"value": {
+					"text": "Artist Name Sort"
+				}
+			},
+			{
+				"id": "TSO2",
+				"size": 19,
+				"value": {
+					"text": "Album Artist Sort"
+				}
+			},
+			{
+				"id": "TSOC",
+				"size": 15,
+				"value": {
+					"text": "Composer Sort"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 13,
+				"value": {
+					"text": "Track Title"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 13,
+				"value": {
+					"text": "Artist Name"
+				}
+			},
+			{
+				"id": "TPE2",
+				"size": 14,
+				"value": {
+					"text": "Album Artist"
+				}
+			},
+			{
+				"id": "TCOM",
+				"size": 10,
+				"value": {
+					"text": "Composer"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 12,
+				"value": {
+					"text": "Album Name"
+				}
+			},
+			{
+				"id": "TIT1",
+				"size": 10,
+				"value": {
+					"text": "Grouping"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 5,
+				"value": {
+					"text": "1/4"
+				}
+			},
+			{
+				"id": "TPOS",
+				"size": 5,
+				"value": {
+					"text": "1/2"
+				}
+			},
+			{
+				"id": "RVA2",
+				"size": 5,
+				"value": {
+					"id": "",
+					"channels": [
+						{
+							"adjustment": -1080,
+							"type": 1
+						}
+					]
+				}
+			},
+			{
+				"id": "TDRC",
+				"size": 6,
+				"value": {
+					"text": "2009"
+				}
+			},
+			{
+				"id": "TBPM",
+				"size": 5,
+				"value": {
+					"text": "125"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 5,
+				"value": {
+					"text": "(9)"
+				}
+			},
+			{
+				"id": "COMM",
+				"size": 25,
+				"value": {
+					"id": "",
+					"language": "eng",
+					"text": "Comment from iTunes"
+				}
+			}
+		]
+	}
+}

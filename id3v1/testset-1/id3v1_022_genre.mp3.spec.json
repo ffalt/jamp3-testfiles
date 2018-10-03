@@ -1,0 +1,14 @@
+{
+	"id3v1": {
+		"version": 0,
+		"value": {
+			"title": "Hip-Hop",
+			"artist": "",
+			"album": "",
+			"year": "2003",
+			"comment": "",
+			"genreIndex": 7
+		},
+		"desc": "An ID3 tag with genre set to Hip-Hop."
+	}
+}

@@ -1,0 +1,20 @@
+{
+  "id3v2": {
+    "ver": 3,
+    "size": 156,
+    "subversion": 0,
+    "frames": [
+      {
+        "id": "TXXX",
+        "size": 165,
+        "value": {
+          "id": "compression example",
+          "text": "This sample user text frame came from an ID3v2-3.0 tag.  The frame has the 'compression' bit set in it's frame header.  This is the new method for compressing frames, which supercedes the 2.01 Compressed Data Metaframe."
+        },
+        "formatFlags": {
+            "compressed": true
+        }
+      }
+    ]
+  }
+}

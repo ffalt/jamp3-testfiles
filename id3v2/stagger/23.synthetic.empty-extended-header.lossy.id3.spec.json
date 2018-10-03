@@ -1,0 +1,60 @@
+{
+	"id3v2": {
+		"ver": 3,
+		"size": 4086,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TIT2",
+				"size": 26,
+				"value": {
+					"text": "The Millionaire's Holiday"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 27,
+				"value": {
+					"text": "Best Of Combustible Edison"
+				}
+			},
+			{
+				"id": "TYER",
+				"size": 5,
+				"value": {
+					"text": "1997"
+				}
+			},
+			{
+				"id": "COMM",
+				"size": 32,
+				"value": {
+					"id": "",
+					"language": "eng",
+					"text": " 0000132D 0000132D 00002FF0"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 2,
+				"value": {
+					"text": "1"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 7,
+				"value": {
+					"text": "Foobar"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 19,
+				"value": {
+					"text": "Combustible Edison"
+				}
+			}
+		]
+	}
+}

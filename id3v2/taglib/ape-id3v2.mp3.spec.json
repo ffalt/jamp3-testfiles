@@ -1,0 +1,16 @@
+{
+	"id3v2": {
+		"ver": 4,
+		"size": 1040,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TIT2",
+				"size": 6,
+				"value": {
+					"text": "Title"
+				}
+			}
+		]
+	}
+}

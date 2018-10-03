@@ -1,0 +1,106 @@
+{
+	"id3v2": {
+		"ver": 3,
+		"size": 935,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TALB",
+				"size": 7,
+				"value": {
+					"text": "Spirit"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 12,
+				"value": {
+					"text": "Alternative"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 20,
+				"value": {
+					"text": "Enter From the East"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 6,
+				"value": {
+					"text": "Jewel"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 3,
+				"value": {
+					"text": "09"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 58,
+				"value": {
+					"id": "MusicBrainz Album Id",
+					"text": "351be819-be1c-4d05-b416-289e3792f780"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 29,
+				"value": {
+					"id": "MusicBrainz Album Type",
+					"text": "album"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 27,
+				"value": {
+					"id": "MusicBrainz Sortname",
+					"text": "Jewel"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 59,
+				"value": {
+					"id": "MusicBrainz Artist Id",
+					"text": "abae8575-ec8a-4736-abc3-1ad5093a68aa"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 34,
+				"value": {
+					"id": "MusicBrainz Album Status",
+					"text": "official"
+				}
+			},
+			{
+				"id": "TYER",
+				"size": 11,
+				"value": {
+					"text": "1998-11-17"
+				}
+			},
+			{
+				"id": "UFID",
+				"size": 56,
+				"value": {
+					"id": "3eb16a43-afb2-47c3-82cf-cae846b2d51d",
+					"text": "MusicBrainz Trackid"
+				}
+			},
+			{
+				"id": "TBPM",
+				"size": 17,
+				"value": {
+					"text": "124.64"
+				}
+			}
+		]
+	}
+}

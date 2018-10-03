@@ -1,0 +1,49 @@
+{
+	"id3v2": {
+		"ver": 3,
+		"size": 57946,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TIT2",
+				"size": 14,
+				"value": {
+					"text": "mp3HD is evil"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 25,
+				"value": {
+					"text": "What Were They Thinking?"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 4,
+				"value": {
+					"text": "Ugh"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 2,
+				"value": {
+					"text": "1"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 5,
+				"value": {
+					"text": "Rock"
+				}
+			},
+			{
+				"id": "XHD3",
+				"size": 57835,
+				"value": {}
+			}
+		]
+	}
+}

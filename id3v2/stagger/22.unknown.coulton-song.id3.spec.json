@@ -1,0 +1,39 @@
+{
+  "id3v2": {
+    "ver": 2,
+    "size": 99135,
+    "subversion": 0,
+    "frames": [
+      {
+        "id": "TP1",
+        "size": 18,
+        "value": {
+          "text": "Jonathan Coulton"
+        }
+      },
+      {
+        "id": "TYE",
+        "size": 6,
+        "value": {
+          "text": "2009"
+        }
+      },
+      {
+        "id": "PIC",
+        "size": 88853,
+        "value": {
+          "mimeType": "JPG",
+          "pictureType": 0,
+          "description": ""
+        }
+      },
+      {
+        "id": "TT2",
+        "size": 16,
+        "value": {
+          "text": "Blue Sunny Day"
+        }
+      }
+    ]
+  }
+}

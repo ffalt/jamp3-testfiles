@@ -1,0 +1,67 @@
+{
+	"id3v2": {
+		"ver": 3,
+		"size": 2119,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TALB",
+				"size": 41,
+				"value": {
+					"text": "Use Your Illusion II"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 27,
+				"value": {
+					"text": "Guns N' Roses"
+				}
+			},
+			{
+				"id": "COMM",
+				"size": 1214,
+				"value": {
+					"id": "",
+					"language": "",
+					"text": "Had Use Your Illusion II been combined with Use Your Illusion I, keeping only the best material while dropping the filler, it would have been one of the best rock albums ever recorded. Instead, great songs like \"Civil War,\" \"14 Years,\" \"Estranged,\" and \"So Fine\" compete with the inexcusable \"Get in the Ring\" and the well-intentioned but off-target cover of \"Knockin' on Heaven's Door.\" There's no point to the second version of \"Don't Cry,\" either. On the other hand, when Guns N' Roses were good, they were very, very good, and some of the material on this album is unsurpassable. --Genevieve Williams"
+				}
+			},
+			{
+				"id": "TENC",
+				"size": 51,
+				"value": {
+					"text": "FairStars Audio Converter"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 9,
+				"value": {
+					"text": "Rock"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 17,
+				"value": {
+					"text": "My World"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 5,
+				"value": {
+					"text": "14"
+				}
+			},
+			{
+				"id": "TYER",
+				"size": 9,
+				"value": {
+					"text": "1991"
+				}
+			}
+		]
+	}
+}

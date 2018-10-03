@@ -1,0 +1,91 @@
+{
+	"id3v2": {
+		"ver": 4,
+		"size": 2148,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TDRC",
+				"size": 6,
+				"value": {
+					"text": "1997"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 6,
+				"value": {
+					"text": "1/13"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 9,
+				"value": {
+					"text": "123/105"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 26,
+				"value": {
+					"id": "ALBUM ARTIST",
+					"text": "Bryan Adams"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 15,
+				"value": {
+					"text": "Summer of '69"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 15,
+				"value": {
+					"text": "MTV Unplugged"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 13,
+				"value": {
+					"text": "Bryan Adams"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 32,
+				"value": {
+					"id": "replaygain_album_gain",
+					"text": "-7.80 dB"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 32,
+				"value": {
+					"id": "replaygain_album_peak",
+					"text": "1.162072"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 32,
+				"value": {
+					"id": "replaygain_track_gain",
+					"text": "-6.94 dB"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 32,
+				"value": {
+					"id": "replaygain_track_peak",
+					"text": "1.064821"
+				}
+			}
+		]
+	}
+}

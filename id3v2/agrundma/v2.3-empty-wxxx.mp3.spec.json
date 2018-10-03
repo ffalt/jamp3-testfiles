@@ -1,0 +1,96 @@
+{
+	"id3v2": {
+		"ver": 3,
+		"size": 997,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TRCK",
+				"size": 7,
+				"value": {
+					"text": "01"
+				}
+			},
+			{
+				"id": "TENC",
+				"size": 1,
+				"value": {
+					"text": ""
+				}
+			},
+			{
+				"id": "WXXX",
+				"size": 2,
+				"value": {
+					"id": "",
+					"text": ""
+				}
+			},
+			{
+				"id": "TCOP",
+				"size": 1,
+				"value": {
+					"text": ""
+				}
+			},
+			{
+				"id": "TOPE",
+				"size": 1,
+				"value": {
+					"text": ""
+				}
+			},
+			{
+				"id": "TCOM",
+				"size": 1,
+				"value": {
+					"text": ""
+				}
+			},
+			{
+				"id": "COMM",
+				"size": 44,
+				"value": {
+					"id": "",
+					"language": "",
+					"text": "Ripped by THSLIVE"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 19,
+				"value": {
+					"text": "(3)Dance"
+				}
+			},
+			{
+				"id": "TYER",
+				"size": 11,
+				"value": {
+					"text": "2007"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 61,
+				"value": {
+					"text": "I Can Walk On Water I Can Fly"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 23,
+				"value": {
+					"text": "Basshunter"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 61,
+				"value": {
+					"text": "I Can Walk On Water I Can Fly"
+				}
+			}
+		]
+	}
+}

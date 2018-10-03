@@ -1,0 +1,68 @@
+{
+	"id3v2": {
+		"ver": 4,
+		"size": 24431,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "UFID",
+				"size": 93,
+				"value": {
+					"id": "http://www.cddb.com/id3/taginfo1.html",
+					"text": "3CD3N59R20943270U398D4FFC8E465120DC117EAB1E17D9E8C0CP7"
+				}
+			},
+			{
+				"id": "APIC",
+				"size": 24200,
+				"value": {
+					"mimeType": "image/png",
+					"pictureType": 0,
+					"description": ""
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 12,
+				"value": {
+					"text": "Blue Movie"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 15,
+				"value": {
+					"text": "Sneaker Pimps"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 12,
+				"value": {
+					"text": "Bloodsport"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 7,
+				"value": {
+					"text": "10/11"
+				}
+			},
+			{
+				"id": "TDRC",
+				"size": 6,
+				"value": {
+					"text": "2001"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 6,
+				"value": {
+					"text": "(20)"
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"id3v1": {
+		"version": 0,
+		"value": {
+			"title": "Sound Clip",
+			"artist": "",
+			"album": "",
+			"year": "2003",
+			"comment": "",
+			"genreIndex": 37
+		},
+		"desc": "An ID3 tag with genre set to Sound Clip."
+	}
+}

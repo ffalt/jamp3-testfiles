@@ -1,0 +1,14 @@
+{
+  "id3v1": {
+    "version": 1,
+    "value": {
+      "title": "Title",
+      "artist": "Artist",
+      "album": "Album",
+      "year": "2017",
+      "comment": "Comment",
+      "track": 1,
+      "genreIndex": 31
+    }
+  }
+}

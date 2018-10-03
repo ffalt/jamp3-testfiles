@@ -1,0 +1,23 @@
+{
+	"id3v2": {
+		"ver": 3,
+		"size": 4145,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TIT2",
+				"size": 21,
+				"value": {
+					"text": "ေျပာျပမည္"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 8,
+				"value": {
+					"text": "Big Bag"
+				}
+			}
+		]
+	}
+}

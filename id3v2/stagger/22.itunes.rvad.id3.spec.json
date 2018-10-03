@@ -1,0 +1,172 @@
+{
+	"id3v2": {
+		"ver": 2,
+		"size": 33044,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "ULT",
+				"size": 36,
+				"value": {
+					"id": "",
+					"language": "eng",
+					"text": "Lyrics (large multiline field)"
+				}
+			},
+			{
+				"id": "TCP",
+				"size": 3,
+				"value": {
+					"bool": true
+				}
+			},
+			{
+				"id": "COM",
+				"size": 16,
+				"value": {
+					"id": "iTunPGAP",
+					"language": "eng",
+					"text": "1"
+				}
+			},
+			{
+				"id": "TT3",
+				"size": 31,
+				"value": {
+					"text": "Description (multiline field)"
+				}
+			},
+			{
+				"id": "TST",
+				"size": 11,
+				"value": {
+					"text": "Sort Name"
+				}
+			},
+			{
+				"id": "TSA",
+				"size": 12,
+				"value": {
+					"text": "Sort Album"
+				}
+			},
+			{
+				"id": "TSP",
+				"size": 13,
+				"value": {
+					"text": "Sort Artist"
+				}
+			},
+			{
+				"id": "TS2",
+				"size": 19,
+				"value": {
+					"text": "Sort Album Artist"
+				}
+			},
+			{
+				"id": "TSC",
+				"size": 15,
+				"value": {
+					"text": "Sort Composer"
+				}
+			},
+			{
+				"id": "TT2",
+				"size": 7,
+				"value": {
+					"text": " Name"
+				}
+			},
+			{
+				"id": "TP1",
+				"size": 8,
+				"value": {
+					"text": "Artist"
+				}
+			},
+			{
+				"id": "TP2",
+				"size": 14,
+				"value": {
+					"text": "Album Artist"
+				}
+			},
+			{
+				"id": "TCM",
+				"size": 10,
+				"value": {
+					"text": "Composer"
+				}
+			},
+			{
+				"id": "TAL",
+				"size": 7,
+				"value": {
+					"text": "Album"
+				}
+			},
+			{
+				"id": "TT1",
+				"size": 10,
+				"value": {
+					"text": "Grouping"
+				}
+			},
+			{
+				"id": "TRK",
+				"size": 6,
+				"value": {
+					"text": "1/24"
+				}
+			},
+			{
+				"id": "TPA",
+				"size": 5,
+				"value": {
+					"text": "1/2"
+				}
+			},
+			{
+				"id": "RVA",
+				"size": 10,
+				"value": {
+					"left": -51400,
+					"peakLeft": 0,
+					"peakRight": 0,
+					"right": -51400
+				}
+			},
+			{
+				"id": "TYE",
+				"size": 6,
+				"value": {
+					"text": "2009"
+				}
+			},
+			{
+				"id": "TBP",
+				"size": 5,
+				"value": {
+					"text": "120"
+				}
+			},
+			{
+				"id": "TCO",
+				"size": 7,
+				"value": {
+					"text": "Genre"
+				}
+			},
+			{
+				"id": "COM",
+				"size": 32,
+				"value": {
+					"id": "",
+					"language": "eng",
+					"text": "Comments (multiline field)"
+				}
+			}
+		]
+	}
+}

@@ -1,0 +1,58 @@
+{
+	"id3v2": {
+		"ver": 3,
+		"size": 2370,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TALB",
+				"size": 47,
+				"value": {
+					"text": "Live: Friday The 13th"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 21,
+				"value": {
+					"text": "Maroon 5"
+				}
+			},
+			{
+				"id": "TENC",
+				"size": 11,
+				"value": {
+					"text": "GvG"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 23,
+				"value": {
+					"text": "Live/Pop"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 53,
+				"value": {
+					"text": "Through With You  [Live]"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 15,
+				"value": {
+					"text": "02/14"
+				}
+			},
+			{
+				"id": "TYER",
+				"size": 13,
+				"value": {
+					"text": "2005"
+				}
+			}
+		]
+	}
+}

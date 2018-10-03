@@ -1,0 +1,107 @@
+{
+	"id3v2": {
+		"ver": 4,
+		"size": 62173,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TPE1",
+				"size": 12,
+				"value": {
+					"text": "Artist Name"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 11,
+				"value": {
+					"text": "Album Name"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 12,
+				"value": {
+					"text": "Track Title"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 6,
+				"value": {
+					"text": "02/10"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 12,
+				"value": {
+					"text": "(26)Ambient"
+				}
+			},
+			{
+				"id": "TXXX",
+				"size": 21,
+				"value": {
+					"id": "User Frame",
+					"text": "User Data"
+				}
+			},
+			{
+				"id": "WCOM",
+				"size": 21,
+				"value": {
+					"text": "http://www.google.com"
+				}
+			},
+			{
+				"id": "WXXX",
+				"size": 31,
+				"value": {
+					"id": "User URL",
+					"text": "http://www.google.com"
+				}
+			},
+			{
+				"id": "TBPM",
+				"size": 4,
+				"value": {
+					"text": "120"
+				}
+			},
+			{
+				"id": "UFID",
+				"size": 52,
+				"value": {
+					"id": "foo@foo.com",
+					"text": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+				}
+			},
+			{
+				"id": "APIC",
+				"size": 58666,
+				"value": {
+					"mimeType": "image/png",
+					"pictureType": 3,
+					"description": "This is the front cover description"
+				}
+			},
+			{
+				"id": "APIC",
+				"size": 2151,
+				"value": {
+					"mimeType": "image/jpeg",
+					"pictureType": 4,
+					"description": "This is the back cover description"
+				}
+			},
+			{
+				"id": "TDTG",
+				"size": 20,
+				"value": {
+					"text": "2009-03-16T18:21:00"
+				}
+			}
+		]
+	}
+}

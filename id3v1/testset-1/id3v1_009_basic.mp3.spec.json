@@ -1,0 +1,15 @@
+{
+	"id3v1": {
+		"version": 1,
+		"value": {
+			"title": "",
+			"artist": "",
+			"album": "",
+			"year": "2003",
+			"comment": "",
+			"track": 255,
+			"genreIndex": 0
+		},
+		"desc": "An ID3 tag with the track number set to max (255)."
+	}
+}

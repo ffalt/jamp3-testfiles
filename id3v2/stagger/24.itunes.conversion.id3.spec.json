@@ -1,0 +1,193 @@
+{
+	"id3v2": {
+		"ver": 4,
+		"size": 132882,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "USLT",
+				"size": 36,
+				"value": {
+					"id": "",
+					"language": "eng",
+					"text": "Lyrics (large multiline field)"
+				}
+			},
+			{
+				"id": "APIC",
+				"size": 60525,
+				"value": {
+					"mimeType": "image/jpeg",
+					"pictureType": 0,
+					"description": ""
+				}
+			},
+			{
+				"id": "APIC",
+				"size": 62079,
+				"value": {
+					"mimeType": "image/jpeg",
+					"pictureType": 0,
+					"description": ""
+				}
+			},
+			{
+				"id": "TCMP",
+				"size": 3,
+				"value": {
+					"bool": true
+				}
+			},
+			{
+				"id": "TIT3",
+				"size": 31,
+				"value": {
+					"text": "Description (multiline field)"
+				}
+			},
+			{
+				"id": "TST",
+				"size": 11,
+				"value": {
+					"text": "Sort Name"
+				}
+			},
+			{
+				"id": "TSA",
+				"size": 12,
+				"value": {
+					"text": "Sort Album"
+				}
+			},
+			{
+				"id": "TSP",
+				"size": 13,
+				"value": {
+					"text": "Sort Artist"
+				}
+			},
+			{
+				"id": "TSO2",
+				"size": 19,
+				"value": {
+					"text": "Sort Album Artist"
+				}
+			},
+			{
+				"id": "TSOC",
+				"size": 15,
+				"value": {
+					"text": "Sort Composer"
+				}
+			},
+			{
+				"id": "COMM",
+				"size": 16,
+				"value": {
+					"id": "iTunPGAP",
+					"language": "eng",
+					"text": "0"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 7,
+				"value": {
+					"text": " Name"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 8,
+				"value": {
+					"text": "Artist"
+				}
+			},
+			{
+				"id": "TPE2",
+				"size": 14,
+				"value": {
+					"text": "Album Artist"
+				}
+			},
+			{
+				"id": "TCOM",
+				"size": 10,
+				"value": {
+					"text": "Composer"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 7,
+				"value": {
+					"text": "Album"
+				}
+			},
+			{
+				"id": "TIT1",
+				"size": 10,
+				"value": {
+					"text": "Grouping"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 6,
+				"value": {
+					"text": "1/24"
+				}
+			},
+			{
+				"id": "TPOS",
+				"size": 5,
+				"value": {
+					"text": "1/2"
+				}
+			},
+			{
+				"id": "RVA2",
+				"size": 5,
+				"value": {
+					"channels": [
+						{
+							"adjustment": 3082,
+							"type": 1
+						}
+					],
+					"id": ""
+				}
+			},
+			{
+				"id": "TDRC",
+				"size": 6,
+				"value": {
+					"text": "2009"
+				}
+			},
+			{
+				"id": "TBPM",
+				"size": 5,
+				"value": {
+					"text": "120"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 7,
+				"value": {
+					"text": "Genre"
+				}
+			},
+			{
+				"id": "COMM",
+				"size": 32,
+				"value": {
+					"id": "",
+					"language": "eng",
+					"text": "Comments (multiline field)"
+				}
+			}
+		]
+	}
+}

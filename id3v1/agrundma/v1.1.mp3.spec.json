@@ -1,0 +1,14 @@
+{
+	"id3v1": {
+		"version": 1,
+		"value": {
+			"artist": "Artist Name                   ",
+			"album": "Album Name                    ",
+			"year": "2009",
+			"comment": "This is a comment           ",
+			"title": "Track Title                   ",
+			"track": 16,
+			"genreIndex": 26
+		}
+	}
+}

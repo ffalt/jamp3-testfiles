@@ -1,0 +1,117 @@
+{
+	"id3v1": {
+		"version": 1,
+		"value": {
+			"title": "TITLE1234567890123456789012345",
+			"artist": "ARTIST123456789012345678901234",
+			"album": "ALBUM1234567890123456789012345",
+			"year": "2001",
+			"comment": "COMMENT123456789012345678901",
+			"track": 1,
+			"genreIndex": 13
+		}
+	},
+	"id3v2": {
+		"ver": 4,
+		"size": 1089,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TENC",
+				"size": 32,
+				"value": {
+					"text": "ENCODER234567890123456789012345"
+				}
+			},
+			{
+				"id": "WXXX",
+				"size": 33,
+				"value": {
+					"id": "",
+					"text": "URL2345678901234567890123456789"
+				}
+			},
+			{
+				"id": "TCOP",
+				"size": 32,
+				"value": {
+					"text": "COPYRIGHT2345678901234567890123"
+				}
+			},
+			{
+				"id": "TOPE",
+				"size": 32,
+				"value": {
+					"text": "ORIGARTIST234567890123456789012"
+				}
+			},
+			{
+				"id": "TCOM",
+				"size": 32,
+				"value": {
+					"text": "COMPOSER23456789012345678901234"
+				}
+			},
+			{
+				"id": "COMM",
+				"size": 33,
+				"value": {
+					"id": "",
+					"language": "",
+					"text": "COMMENT123456789012345678901"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 31,
+				"value": {
+					"text": "ARTIST123456789012345678901234"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 31,
+				"value": {
+					"text": "ALBUM1234567890123456789012345"
+				}
+			},
+			{
+				"id": "COMM",
+				"size": 46,
+				"value": {
+					"id": "ID3v1 Comment",
+					"language": "XXX",
+					"text": "COMMENT123456789012345678901"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 2,
+				"value": {
+					"text": "1"
+				}
+			},
+			{
+				"id": "TYER",
+				"size": 5,
+				"value": {
+					"text": "2001"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 8,
+				"value": {
+					"text": "(13)Pop"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 31,
+				"value": {
+					"text": "TITLE1234567890123456789012345"
+				}
+			}
+		]
+	}
+}

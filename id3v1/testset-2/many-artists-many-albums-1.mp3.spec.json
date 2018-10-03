@@ -1,0 +1,14 @@
+{
+	"id3v1": {
+		"version": 0,
+		"value": {
+			"title": "Title1",
+			"artist": "Artist1",
+			"album": "Album1",
+			"year": "",
+			"comment": "krec",
+			"genreIndex": 255
+		},
+		"desc": "many-artists-many-albums Title1"
+	}
+}

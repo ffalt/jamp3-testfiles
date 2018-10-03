@@ -1,0 +1,48 @@
+{
+	"id3v2": {
+		"ver": 3,
+		"size": 1163,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TIT2",
+				"size": 5,
+				"value": {
+					"text": "Fisk"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 5,
+				"value": {
+					"text": "Fisk"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 5,
+				"value": {
+					"text": "Fisk"
+				}
+			},
+			{
+				"id": "COMM",
+				"size": 5,
+				"value": {
+					"id": "",
+					"language": "eng",
+					"text": ""
+				}
+			},
+			{
+				"id": "USLT",
+				"size": 69,
+				"value": {
+					"id": "",
+					"language": "eng",
+					"text": "FiskFiskFiskFiskFiskFiskFiskFiskFiskFiskFiskFiskFiskFiskFiskFisk"
+				}
+			}
+		]
+	}
+}

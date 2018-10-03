@@ -1,0 +1,77 @@
+{
+  "id3v2": {
+    "ver": 3,
+    "size": 28725,
+    "subversion": 0,
+    "frames": [
+      {
+        "id": "TPE1",
+        "size": 23,
+        "value": {
+          "text": "O Brother"
+        }
+      },
+      {
+        "id": "TYER",
+        "size": 1,
+        "value": {
+          "text": ""
+        }
+      },
+      {
+        "id": "TIT2",
+        "size": 30,
+        "value": {
+          "text": "Hard Time Killing Floor Blues"
+        }
+      },
+      {
+        "id": "TALB",
+        "size": 1,
+        "value": {
+          "text": ""
+        }
+      },
+      {
+        "id": "GEOB",
+        "size": 1936,
+        "binSize": 1906,
+        "value": {
+          "mimeType": "binary",
+          "filename": "",
+          "contentDescription": "RealJukebox:Metadata"
+        }
+      },
+      {
+        "id": "TMED",
+        "size": 4,
+        "value": {
+          "text": "DIG"
+        }
+      },
+      {
+        "id": "TRCK",
+        "size": 3,
+        "value": {
+          "text": "06"
+        }
+      },
+      {
+        "id": "COMM",
+        "size": 12,
+        "value": {
+          "id": "",
+          "language": "ENU",
+          "text": ""
+        }
+      },
+      {
+        "id": "TCON",
+        "size": 6,
+        "value": {
+          "text": "blues"
+        }
+      }
+    ]
+  }
+}

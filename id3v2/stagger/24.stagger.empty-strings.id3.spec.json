@@ -1,0 +1,16 @@
+{
+  "id3v2": {
+    "ver": 4,
+    "size": 31,
+    "subversion": 0,
+    "frames": [
+      {
+        "id": "TIT2",
+        "size": 21,
+        "value": {
+          "text": "Foobar"
+        }
+      }
+    ]
+  }
+}

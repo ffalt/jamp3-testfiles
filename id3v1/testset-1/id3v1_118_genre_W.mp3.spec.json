@@ -1,0 +1,14 @@
+{
+	"id3v1": {
+		"version": 0,
+		"value": {
+			"title": "Opera",
+			"artist": "",
+			"album": "",
+			"year": "2003",
+			"comment": "",
+			"genreIndex": 103
+		},
+		"desc": "An ID3 tag with genre set to Opera. Only the first 80 genres are defined in the original ID3. "
+	}
+}

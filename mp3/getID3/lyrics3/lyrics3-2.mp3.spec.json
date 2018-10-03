@@ -1,0 +1,108 @@
+{
+	"id3v1": {
+		"version": 1,
+		"value": {
+			"title": "Title Goes Here",
+			"artist": "Artist Here",
+			"album": "Album Name",
+			"year": "1987",
+			"comment": "both id3v1 and id3v2",
+			"track": 99,
+			"genreIndex": 75
+		}
+	},
+	"id3v2": {
+		"ver": 3,
+		"size": 951,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TRCK",
+				"size": 3,
+				"value": {
+					"text": "99"
+				}
+			},
+			{
+				"id": "TENC",
+				"size": 11,
+				"value": {
+					"text": "SmilieDude"
+				}
+			},
+			{
+				"id": "WXXX",
+				"size": 26,
+				"value": {
+					"id": "",
+					"text": "http://www.beethoven.com"
+				}
+			},
+			{
+				"id": "TCOP",
+				"size": 18,
+				"value": {
+					"text": "©1642 Ludwig Inc."
+				}
+			},
+			{
+				"id": "TOPE",
+				"size": 9,
+				"value": {
+					"text": "Bon Jovi"
+				}
+			},
+			{
+				"id": "TCOM",
+				"size": 10,
+				"value": {
+					"text": "Beethoven"
+				}
+			},
+			{
+				"id": "COMM",
+				"size": 23,
+				"value": {
+					"id": "",
+					"language": "",
+					"text": "I love this track!"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 19,
+				"value": {
+					"text": "My Favourite Genre"
+				}
+			},
+			{
+				"id": "TYER",
+				"size": 5,
+				"value": {
+					"text": "1987"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 11,
+				"value": {
+					"text": "Album Name"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 12,
+				"value": {
+					"text": "Artist Here"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 16,
+				"value": {
+					"text": "Title Goes Here"
+				}
+			}
+		]
+	}
+}

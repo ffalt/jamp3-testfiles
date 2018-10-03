@@ -1,0 +1,24 @@
+{
+  "title": "ape-id3v2",
+  "id3v2": {
+    "ver": 3,
+    "frames": [
+      {
+        "id": "TIT2",
+        "value": {
+          "text": "Title"
+        }
+      }
+    ]
+  },
+  "ape": {
+    "frames": [
+      {
+        "id": "TITLE",
+        "value": {
+          "text": "Title"
+        }
+      }
+    ]
+  }
+}

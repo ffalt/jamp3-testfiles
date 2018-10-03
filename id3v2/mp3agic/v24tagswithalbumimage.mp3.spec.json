@@ -1,0 +1,191 @@
+{
+	"id3v1": {
+		"version": 1,
+		"value": {
+			"title": "TITLE1234567890123456789012345",
+			"artist": "ARTIST123456789012345678901234",
+			"album": "ALBUM1234567890123456789012345",
+			"year": "2014",
+			"comment": "COMMENT123456789012345678901",
+			"track": 1,
+			"genreIndex": 13
+		}
+	},
+	"id3v2": {
+		"ver": 4,
+		"size": 3137,
+		"subversion": 0,
+		"frames": [
+			{
+				"id": "TENC",
+				"size": 32,
+				"value": {
+					"text": "ENCODER234567890123456789012345"
+				}
+			},
+			{
+				"id": "WXXX",
+				"size": 33,
+				"value": {
+					"id": "",
+					"text": "URL2345678901234567890123456789"
+				}
+			},
+			{
+				"id": "TCOP",
+				"size": 32,
+				"value": {
+					"text": "COPYRIGHT2345678901234567890123"
+				}
+			},
+			{
+				"id": "TOPE",
+				"size": 32,
+				"value": {
+					"text": "ORIGARTIST234567890123456789012"
+				}
+			},
+			{
+				"id": "TCOM",
+				"size": 32,
+				"value": {
+					"text": "COMPOSER23456789012345678901234"
+				}
+			},
+			{
+				"id": "COMM",
+				"size": 33,
+				"value": {
+					"id": "",
+					"language": "",
+					"text": "COMMENT123456789012345678901"
+				}
+			},
+			{
+				"id": "TPE1",
+				"size": 31,
+				"value": {
+					"text": "ARTIST123456789012345678901234"
+				}
+			},
+			{
+				"id": "TALB",
+				"size": 31,
+				"value": {
+					"text": "ALBUM1234567890123456789012345"
+				}
+			},
+			{
+				"id": "COMM",
+				"size": 46,
+				"value": {
+					"id": "ID3v1 Comment",
+					"language": "XXX",
+					"text": "COMMENT123456789012345678901"
+				}
+			},
+			{
+				"id": "TRCK",
+				"size": 2,
+				"value": {
+					"text": "1"
+				}
+			},
+			{
+				"id": "TDRC",
+				"size": 5,
+				"value": {
+					"text": "2014"
+				}
+			},
+			{
+				"id": "TCON",
+				"size": 4,
+				"value": {
+					"text": "Pop"
+				}
+			},
+			{
+				"id": "TIT2",
+				"size": 31,
+				"value": {
+					"text": "TITLE1234567890123456789012345"
+				}
+			},
+			{
+				"id": "APIC",
+				"size": 1898,
+				"value": {
+					"mimeType": "image/png",
+					"pictureType": 0,
+					"description": ""
+				}
+			},
+			{
+				"id": "WCOM",
+				"size": 31,
+				"value": {
+					"text": "COMMERCIALURL234567890123456789"
+				}
+			},
+			{
+				"id": "WCOP",
+				"size": 31,
+				"value": {
+					"text": "COPYRIGHTURL2345678901234567890"
+				}
+			},
+			{
+				"id": "WOAR",
+				"size": 31,
+				"value": {
+					"text": "OFFICIALARTISTURL23456789012345"
+				}
+			},
+			{
+				"id": "WOAF",
+				"size": 31,
+				"value": {
+					"text": "OFFICIALAUDIOFILE23456789012345"
+				}
+			},
+			{
+				"id": "WOAS",
+				"size": 31,
+				"value": {
+					"text": "OFFICIALAUDIOSOURCE234567890123"
+				}
+			},
+			{
+				"id": "WORS",
+				"size": 31,
+				"value": {
+					"text": "INTERNETRADIOSTATIONURL23456783"
+				}
+			},
+			{
+				"id": "WPAY",
+				"size": 31,
+				"value": {
+					"text": "PAYMENTURL234567890123456789012"
+				}
+			},
+			{
+				"id": "WPUB",
+				"size": 31,
+				"value": {
+					"text": "PUBLISHERURL2345678901234567890"
+				}
+			},
+			{
+				"id": "USLT",
+				"size": 37,
+				"value": {
+					"id": "",
+					"language": "eng",
+					"text": "LYRICS1234567890123456789012345"
+				}
+			}
+		]
+	}
+}

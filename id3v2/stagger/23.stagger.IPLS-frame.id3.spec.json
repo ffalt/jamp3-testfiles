@@ -1,0 +1,42 @@
+{
+  "id3v2": {
+    "ver": 3,
+    "size": 237,
+    "subversion": 0,
+    "frames": [
+      {
+        "id": "TIT2",
+        "size": 7,
+        "value": {
+          "text": "Title"
+        }
+      },
+      {
+        "id": "TPE1",
+        "size": 8,
+        "value": {
+          "text": "Artist"
+        }
+      },
+      {
+        "id": "TALB",
+        "size": 7,
+        "value": {
+          "text": "Album"
+        }
+      },
+      {
+        "id": "IPLS",
+        "size": 47,
+        "value": {
+          "list": [
+            "Producer",
+            "John Smith",
+            "Soloist",
+            "J. Random Soloist"
+          ]
+        }
+      }
+    ]
+  }
+}

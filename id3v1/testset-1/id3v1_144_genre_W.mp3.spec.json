@@ -1,0 +1,14 @@
+{
+	"id3v1": {
+		"version": 0,
+		"value": {
+			"title": "Hardcore",
+			"artist": "",
+			"album": "",
+			"year": "2003",
+			"comment": "",
+			"genreIndex": 129
+		},
+		"desc": "An ID3 tag with genre set to Hardcore. Only the first 80 genres are defined in the original ID3. "
+	}
+}
