@@ -15,7 +15,7 @@
         "id": "TALB",
         "size": 18,
         "formatFlags": {
-          "data_length_indicator": true,
+          "dataLengthIndicator": true,
           "unsynchronised": true
         },
         "value": {
@@ -26,7 +26,7 @@
         "id": "TPE1",
         "size": 20,
         "formatFlags": {
-          "data_length_indicator": true,
+          "dataLengthIndicator": true,
           "unsynchronised": true
         },
         "value": {
@@ -37,7 +37,7 @@
         "id": "TIT2",
         "size": 18,
         "formatFlags": {
-          "data_length_indicator": true,
+          "dataLengthIndicator": true,
           "unsynchronised": true
         },
         "value": {

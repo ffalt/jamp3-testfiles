@@ -72,7 +72,7 @@
         "id": "TIT2",
         "size": 34,
         "formatFlags": {
-          "data_length_indicator": true,
+          "dataLengthIndicator": true,
           "compressed": true
         },
         "value": {

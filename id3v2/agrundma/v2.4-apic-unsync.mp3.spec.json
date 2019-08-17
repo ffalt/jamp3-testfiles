@@ -198,7 +198,7 @@
 				"id": "APIC",
 				"size": 46258,
 				"formatFlags": {
-					"data_length_indicator": true,
+					"dataLengthIndicator": true,
 					"unsynchronised": true
 				},
 				"value": {

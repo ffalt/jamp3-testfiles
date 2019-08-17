@@ -43,7 +43,7 @@
 				"id": "TPOS",
 				"size": 14,
 				"formatFlags": {
-					"data_length_indicator": true,
+					"dataLengthIndicator": true,
 					"unsynchronised": true
 				},
 				"value": {
@@ -85,7 +85,7 @@
 				"id": "COMM",
 				"size": 74,
 				"formatFlags": {
-					"data_length_indicator": true,
+					"dataLengthIndicator": true,
 					"unsynchronised": true
 				},
 				"value": {
@@ -98,7 +98,7 @@
 				"id": "TPE3",
 				"size": 8,
 				"formatFlags": {
-					"data_length_indicator": true,
+					"dataLengthIndicator": true,
 					"unsynchronised": true
 				},
 				"value": {
@@ -117,7 +117,7 @@
 				"id": "TCOP",
 				"size": 66,
 				"formatFlags": {
-					"data_length_indicator": true,
+					"dataLengthIndicator": true,
 					"unsynchronised": true
 				},
 				"value": {
@@ -128,7 +128,7 @@
 				"id": "APIC",
 				"size": 24489,
 				"formatFlags": {
-					"data_length_indicator": true,
+					"dataLengthIndicator": true,
 					"unsynchronised": true
 				},
 				"value": {
@@ -156,7 +156,7 @@
 				"id": "TCOM",
 				"size": 8,
 				"formatFlags": {
-					"data_length_indicator": true,
+					"dataLengthIndicator": true,
 					"unsynchronised": true
 				},
 				"value": {
